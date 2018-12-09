@@ -1,0 +1,99 @@
+tags: darakwon 4-과
+
+[sound:네.mp3]	네 <span class="small">(&ne;&nbsp;아니요)</span>	oui <span class="small">(&ne;&nbsp;non)</span>
+[sound:아니요.mp3]	아니요 <span class="small">(&ne;&nbsp;네)</span>	non <span class="small">(&ne;&nbsp;oui)</span>
+[sound:누구.mp3]	누구	qui&nbsp;?<p class="small">(pronom interrogatif)</p>
+[sound:씨.mp3]	<span class="fr">(nom)prénom</span> 씨	monsieur, madame, mademoiselle<p class="small">(terme honorifique)</p>
+[sound:친구.mp3]	친구	ami
+[sound:이_학년.mp3]	이 학년 <span class="발음">[이 항년]</span>	deuxième année<p class="small">(scolaire)</p>
+[sound:도.mp3]	-도<p class="small">(씨도, 저도, &hellip;)</p>	aussi, non plus
+
+[sound:가방.mp3]	가방	sac
+[sound:사진.mp3]	사진	photo
+[sound:성악가.mp3]	성악가 <span class="발음">[성악<span style="font-weight: bold">까</span>]</span><p class="small light">/ 가수</p>	chanteur lyrique<p class="small light">/ chanteur</p>
+[sound:소설가.mp3]	소설가<p class="small light">/ 소설책 / 작가 / 시인</p>	romancier<p class="small light">/ roman / écrivain / poète</p>
+[sound:책.mp3]	책<p class="small light">/ 소설책 / 도서관 / 서점</p>	livre<p class="small light">/ roman / bibliothèque / librairie</p>
+[sound:영화.mp3]	영화 <span class="small light">/ 극장 / 영화감독</span>	film, cinéma<p class="small light">/ (salle de) cinéma / réalisateur</p>
+[sound:영화감독.mp3]	영화감독 <span class="small light">/ 영화</span>	réalisateur <span class="small light">/ film, cinéma</span>
+[sound:의사.mp3]	의사	médecin, docteur
+[sound:의자.mp3]	의자 <span class="small light">/ 책상</span>	chaise <span class="small light">/ table, bureau</span>
+[sound:책상.mp3]	책상 <span class="발음">[책쌍]</span><p class="small light">/ 의자</p>	table, bureau<p class="small light">/ chaise</p>
+[sound:휴대전화.mp3]	휴대전화<hr/>핸드폰	téléphone portable<p class="small">(콩글리시, konglish&nbsp;: hand phone)</p>
+
+[sound:미국.mp3]	미국<p class="small light">/ 워싱턴 / 뉴욕 / 로스 앤젤레스</p>	États-Unis, USA<p class="small light">/ Washington / New York / Los Angeles</p><p class="small">(국가: pays)</p>
+[sound:중국.mp3]	중국 <span class="small light">/ 베이징</span>	Chine <span class="small light">/ Pékin</span><p class="small">(litt. “pays du milieu (중)”&nbsp;; 국가: pays)</p>
+[sound:일본.mp3]	일본 <span class="small light">/ 도쿄</span>	Japon <span class="small light">/ Tokyo</span><p class="small">(국가: pays)</p>
+[sound:영국.mp3]	영국 <span class="small light">/ 런던</span>	Royaume-Uni <span class="small light">/ Londres</span><p class="small">(국가: pays)</p>
+[sound:스페인.mp3]	스페인 <span class="small light">/ 마드리드</span>	Espagne <span class="small light">/ Madrid</span><p class="small">(국가: pays)</p>
+[sound:이탈리아.mp3]	이탈리아 <span class="small light">/ 로마</span>	Italie <span class="small light">/ Rome</span><p class="small">(국가: pays)</p>
+[sound:독일.mp3]	독일 <span class="small light">/ 베를린</span>	Allemagne <span class="small light">/ Berlin</span><p class="small">(국가: pays)</p>
+[sound:러시아.mp3]	러시아 <span class="small light">/ 모스크바</span>	Russie<p class="small light">/ Moscou (rus. “Москва”, Moskva)</p><p class="small">(국가: pays)</p>
+[sound:태국.mp3]	태국 <span class="small light">/ 방콕</span>	Thaïlande <span class="small light">/ Bangkok</span><p class="small">(국가: pays)</p>
+[sound:인도.mp3]	인도<p class="small light">/ 뉴델리 / 봄베이 / 캘커타</p>	Inde<p class="small light">/ New Delhi / Bombay / Calcutta</p><p class="small">(국가: pays)</p>
+[sound:멕시코.mp3]	멕시코	Mexique<p class="small">(국가: pays)</p>
+[sound:호주.mp3]	호주 <span class="small light">/ 캔버라 / 시드니</span>	Australie <span class="small light">/ Canberra / Sydney</span><p class="small">(국가: pays)</p>
+
+[sound:프랑스어_불어.mp3]	프랑스어<hr/>불어 <span class="발음">[부러]</span>	français<p class="small">(langue)</p>
+[sound:아랍어.mp3]	아랍어 <span class="발음">[아라버]</span>	arabe<p class="small">(langue)</p>
+[sound:중국어.mp3]	중국어 <span class="발음">[중구거]</span>	chinois<p class="small">(langue)</p>
+[sound:일본어_일어.mp3]	일본어 <span class="발음">[일보너]</span><hr/>일어 <span class="발음">[이러]</span>	japonais<p class="small">(langue)</p>
+[sound:영어.mp3]	영어	anglais<p class="small">(langue)</p>
+[sound:독일어_독어.mp3]	독일어 <span class="발음">[도기러]</span><hr/>독어 <span class="발음">[도거]</span>	allemand<p class="small">(langue)</p>
+[sound:스페인어.mp3]	스페인어 <span class="발음">[스페이너]</span>	espagnol<p class="small">(langue)</p>
+[sound:이탈리아어.mp3]	이탈리아어	italien<p class="small">(langue)</p>
+
+[sound:이분이_누구예요.mp3]	<ul>이분이 누구예요?</ul>	<ul>Qui est-ce&nbsp;? <span class="light" style="font-style: italic">(litt. “Quelle est cette personne-ci&nbsp;?”)</span></ul>
+[sound:이게_뭐예요.mp3]	<ul>이게 뭐예요?<p class="small">(이것이 &gt; 이거가 &gt; <span class="em">이게</span>)</p></ul>	<ul>Qu'est-ce que c'est&nbsp;? <span class="light" style="font-style: italic">(litt. “Qu'est-ce que ceci&nbsp;?”)</span></ul>
+
+[sound:처음.mp3]	처음	première fois<p class="small">(début, commencement)</p>
+[sound:만나다_뵙다.mp3]	<div class="활용"><div class="bloc"><div class="부정사" style="font-size: 150%">&#x21a1; 뵙다 <span class="발음">[뷉<span style="font-weight: bold">따</span>]</span></div><div class="불규칙">(“ㅂ” 불규칙 동사)</div></div></div>	rencontrer<ul><li>verbe irrégulier en “ㅂ”&nbsp;: ㅂ devient 오 devant la voyelle 아 et 우 devant toute autre voyelle</li><br><li>Un terme honorifique (&#x219f;) ou de modestie (&#x21a1;) permet d'augmenter le niveau de politesse entre le sujet d'une action et son destinataire&nbsp;:<ul style="font-size: 100%; list-style-type: circle"><li>un terme <span class="em">honorifique</span> souligne la déférence portée au <span class="em">sujet</span> de l'action (un aîné, un supérieur hiérarchique, un client, &hellip;)</li><li>un terme de <span class="em">modestie</span> souligne la déférence du sujet de l'action portée à son <span class="em">destinataire</span></ul></li><br><li>Ces considérations sont totalement indépendantes du <span class="em">registre</span> de langue (해체 &lt; 해요체 &lt; 하십시오체) qui est spécifiquement utilisé pour indiquer le niveau de politesse et de formalité envers l'<span class="em">interlocuteur</span> du discours.</li></ul>
+[sound:처음_뵙겠습니다.mp3]	처음 뵙겠습니다<p class="발음">[뵙<span style="font-weight: bold">께씀</span>니다]</p>	enchanté, ravi de vous rencontrer<p class="small">(pour la première fois)</p><p class="small">(하십시오체, registre formel poli)</p>
+
+[sound:아니다.mp3]	<div class="활용"><div class="bloc"><div class="부정사" style="font-size: 150%">아니다</div></div></div><p class="small">(&ne;&nbsp;이다)</p>	ne pas être<p class="small">(&ne;&nbsp;être)</p><ul><li>la <span class="em">copule</span> sert à marquer l'identité</li></ul>
+[sound:아니에요.mp3]	아니에요<div class="활용"><div class="부정사">아니다</div><div class="현재">아니에요</div></div>	il n'est pas<p class="small">(해요체, registre informel poli)</p><ul><li>la <span class="em">copule</span> sert à marquer l'identité</li></ul>
+
+
+# 대화 1
+
+[sound:저는_줄리엥이에요.mp3]	<ul><li>이분이 누구예요?</li><li>줄리엥 씨예요. 친구예요.</li><li>아, 그래요? 반갑습니다, 줄리엥 씨. 저는 김민정이에요.</li><li>처음 뵙겠습니다. 저는 줄리엥이에요.</li></ul>	<ul><li>Qui est-ce&nbsp;?</li><li>C'est Julien, un ami.</li><li>Ah oui&nbsp;? Ravi de te rencontrer, Julien. Je m'appelle Kim Min-jeong.</li><li>Enchanté. Je m'appelle Julien.</li></ul>
+
+[sound:저도_대학생이에요.mp3]	<ul><li>줄리엥 씨는 대학생이에요?</li><li>네, 대학생이에요. 김민정 씨도 대학생이에요?</li><li>네, 저도 대학생이에요. 이 학년이에요.</li></ul>	<ul><li>Julien, es-tu étudiant&nbsp;?</li><li>Oui, je suis étudiant. Kim Min-jeong, es-tu aussi étudiante&nbsp;?</li><li>Oui, je suis aussi étudiante. Je suis en deuxième année.</li></ul>
+
+
+# 대화 2
+
+[sound:프랑스_사람이에요.mp3]	<ul><li>줄리엥 씨는 스페인 사람이에요?</li><li>아니요, 저는 스페인 사람이 아니에요. 프랑스 사람이에요.</li><li>아, 그래요? 죄송합니다.</li><li>괜찮아요.</li></ul>	<ul><li>Julien es-tu espagnol&nbsp;?</li><li>Non, je ne suis pas espagnol. Je suis français.</li><li>Ah, vraiment&nbsp;? Désolée.</li><li>Ce n'est rien.</li></ul>
+
+[sound:한국_사람이에요.mp3]	<ul><li>민정 씨는 중국 사람이에요?</li><li>아니요, 저는 중국 사람이 아니에요. 한국 사람이에요.</li><li>아, 미안합니다.</li><li>괜찮아요.</li></ul>	<ul><li>Min-jeong, es-tu chinoise&nbsp;?</li><li>Non, je ne suis pas chinoise. Je suis coréenne.</li><li>Ah, je suis désolé.</li><li>Il n'y a pas de mal.</li></ul>
+
+[sound:전공은_한국어예요.mp3]	<ul><li>줄리엥 씨는 대학교 삼 학년이에요?</li><li>아니요, 저도 이 학년이에요. 전공은 한국어예요.</li></ul>	<ul><li>Julien, es-tu en troisième année de fac&nbsp;?</li><li>Non, je suis aussi en deuxième année. Ma spécialité est le coréen.</li></ul>
+
+
+# 읽기
+
+[sound:화가가_아니에요.mp3]	<ul><li>이분이 누구예요?</li><li>박경리 선생님이에요. 박경리 선생님은 소설가예요. 화가가 아니에요.</li></ul>	<ul><li>Qui est-ce&nbsp;?</li><li>C'est (M.) Park Kyeong-ri. C'est un romancier. Il n'est pas peintre.</li></ul>
+
+[sound:소설가예요.mp3]	<ul><li>이분이 누구예요?</li><li>김영하 씨예요. 김영하 씨도 소설가예요.</li></ul>	<ul><li>Qui est-ce&nbsp;?</li><li>C'est (Mme) Kim Yeong-ha. Elle aussi est romancière.</li></ul>
+
+[sound:영화감독이_아니에요.mp3]	<ul><li>이분이 누구예요?</li><li>전도연 씨예요. 전도연 씨는 한국 배우예요. 영화감독이 아니에요.</li></ul>	<ul><li>Qui est-ce&nbsp;?</li><li>C'est (Mme) Jeon Do-yeon. C'est une actrice coréenne. Elle n'est pas réalisatrice.</li></ul>
+
+[sound:배우가_아니에요.mp3]	<ul><li>이분이 누구예요?</li><li>조수미 씨예요. 조수미 씨는 성악가예요. 배우가 아니에요.</li></ul>	<ul><li>Qui est-ce&nbsp;?</li><li>C'est (Mme) Jo Sumi. C'est une chanteuse. Elle n'est pas actrice.</li></ul>
+
+
+[sound:가방이에요.mp3]	<ul><li>이게 뭐예요?</li><li>가방이에요.</li></ul>	<ul><li>Qu'est-ce que ceci&nbsp;?</li><li>C'est un sac.</li></ul>
+
+[sound:휴대전화예요.mp3]	<ul><li>이게 뭐예요?</li><li>휴대전화예요.</li></ul>	<ul><li>Qu'est-ce que ceci&nbsp;?</li><li>C'est un téléphone portable.</li></ul>
+
+[sound:사진이에요.mp3]	<ul><li>이게 뭐예요?</li><li>사진이에요. 전도연 씨 사진이에요.</li></ul>	<ul><li>Qu'est-ce que ceci&nbsp;?</li><li>C'est une photo. Une photo de (Mme) Jeon Do-yeon.</li></ul>
+
+
+# 듣기와 말하기
+
+[sound:미국_사람이_아니에요.mp3]	<ul>모르간 씨는 미국 사람이 아니에요.</ul>	<ul>Morgane n'est pas américaine.</ul>
+[sound:화가예요.mp3]	<ul>저는 화가예요.</ul>	<ul>Je suis peintre.</ul>
+[sound:한국_소설가예요.mp3]	<ul>김영하 씨는 한국 소설가예요.</ul>	<ul>Kim Yeong-ha est une romancière coréenne.</ul>
+
+
+# 문화와 사회
+
+[sound:한류.mp3]	한류 <span class="발음">[할류]</span>	Hallyu<p class="small">(litt. “vague coréenne”)</p><ul><li>La “vague coréenne” est un néologisme forgé pour désigner le succès croissant de la culture sud coréenne représentée par sa production télévisuelle (<span class="em">드라마, K-dramas</span>) et musicale (<span class="em">케이팝, K-pop</span>), la bande dessinée (<span class="em">만화</span>), les jeux vidéos, sa cuisine (<span class="em">한식</span>), etc.</li><li>Ce succès est en partie dû au développement de services de réseaux sociaux et de plateformes de partage de vidéos en ligne (YouTube), qui ont permis à l'industrie coréenne du divertissement d'atteindre un public étranger important.</li></ul>
