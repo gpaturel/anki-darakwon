@@ -1,0 +1,167 @@
+tags: darakwon 8-과
+
+[sound:언제.mp3]	언제	quand
+[sound:열심히.mp3]	열심히	dur (adv), avec zèle, ardemment, sérieusement
+[sound:인터넷.mp3]	인터넷	internet
+[sound:카페.mp3]	카페	café<p class="small">(lieu)</p>
+[sound:회사.mp3]	회사	entreprise, compagnie, société
+
+[sound:살.mp3]	살	âge (d'une personne)<p class="small">(수분류사: classificateur + cardinal <span class="em">coréen</span>)</p><hr>chair<p class="small">(몸: corps)</p>
+[sound:시.mp3]	시	heures<p class="small">(수분류사: classificateur + cardinal <span class="em">coréen</span>)</p>
+[sound:분.mp3]	분	minutes<p class="small">(수분류사: classificateur + cardinal <span class="em">sino-coréen</span>)</p>
+[sound:월.mp3]	월	mois<p class="small">(수분류사: classificateur + ordinal <span class="em">sino-coréen</span>)</p>
+[sound:일.mp3]	일	travail<hr/>jours<p class="small">(수분류사: classificateur + cardinal <span class="em">sino-coréen</span>)</p>
+
+[sound:전.mp3]	전<p class="small">(&ne;&nbsp;후)</p>	avant, moins<p class="small">(&ne;&nbsp;après)</p>
+[sound:오전.mp3]	오전 <span class="small">(&ne;&nbsp;오후)</span>	matin, matinée, a.m.<p class="small">(전: avant ; &ne;&nbsp;après-midi)</p><ul><li>demie-journée comprise entre minuit (자정) et midi (정오)</li><li>0-6h : aube (새벽)</li><li>6-12h : matin (아침)</li></ul>
+[sound:오후.mp3]	오후 <span class="small">(&ne;&nbsp;오전)</span>	après-midi, p.m.<p class="small">(후: après ; &ne;&nbsp;matinée)</p><ul><li>demie-journée comprise entre midi (정오) et minuit (자정)</li><li>12-18h : après-midi (낮)</li><li>18-21h : soir (저녁)</li><li>21-24h : nuit (밤)</li></ul>
+[sound:정오.mp3]	정오 <span class="small light">/ 자정</span><p class="small">(낮 열두 시)</p>	midi (pile) <span class="small light">/ minuit</span>
+[sound:자정.mp3]	자정 <span class="small light">/ 정오</span><p class="small">(밤 열두 시)</p>	minuit (pile) <span class="small light">/ midi</span>
+
+[sound:새벽.mp3]	새벽 <span class="small light">/ 오전</span>	aube (0-6h) <span class="small light">/ a.m.</span>
+[sound:아침.mp3]	아침 <span class="small light">/ 오전</span>	matin (6-12h) <span class="small light">/ a.m.</span><hr/>petit déjeuner
+[sound:오늘_아침.mp3]	오늘 아침	ce matin (6-12h)
+[sound:점심.mp3]	<span class="small light">아침 /</span> 점심 <span class="small light">/ 저녁</span>	déjeuner<p class="small light">/ petit déjeuner / dîner</p>
+[sound:낮.mp3]	낮 <span class="small light">/ 오후</span>	après-midi (12-18h) <span class="small light">/ p.m.</span>
+[sound:밤.mp3]	밤 <span class="small light">/ 오후</span>	nuit (21-24h) <span class="small light">/ p.m.</span>
+
+[sound:반.mp3]	반	moitié, demi
+[sound:쯤.mp3]	-쯤	environ, vers, à peu près
+
+[sound:요일.mp3]	요일	jour<p class="small">(de la semaine)</p>
+[sound:월요일.mp3]	월요일<p class="small">(일요일 &lt; <span class="em">월요일</span> &lt; 화요일 &lt; 수요일 &lt; 목요일 &lt; 금요일 &lt; 토요일)</p>	lundi
+[sound:화요일.mp3]	화요일<p class="small">(일요일 &lt; 월요일 &lt; <span class="em">화요일</span> &lt; 수요일 &lt; 목요일 &lt; 금요일 &lt; 토요일)</p>	mardi
+[sound:수요일.mp3]	수요일<p class="small">(일요일 &lt; 월요일 &lt; 화요일 &lt; <span class="em">수요일</span> &lt; 목요일 &lt; 금요일 &lt; 토요일)</p>	mercredi
+[sound:목요일.mp3]	목요일<p class="small">(일요일 &lt; 월요일 &lt; 화요일 &lt; 수요일 &lt; <span class="em">목요일</span> &lt; 금요일 &lt; 토요일)</p>	jeudi
+[sound:금요일.mp3]	금요일<p class="small">(일요일 &lt; 월요일 &lt; 화요일 &lt; 수요일 &lt; 목요일 &lt; <span class="em">금요일</span> &lt; 토요일)</p>	vendredi
+[sound:토요일.mp3]	토요일<p class="small">(일요일 &lt; 월요일 &lt; 화요일 &lt; 수요일 &lt; 목요일 &lt; 금요일 &lt; <span class="em">토요일</span>)</p>	samedi
+[sound:일요일.mp3]	일요일<p class="small">(<span class="em">일요일</span> &lt; 월요일 &lt; 화요일 &lt; 수요일 &lt; 목요일 &lt; 금요일 &lt; 토요일)</p>	dimanche
+[sound:주말.mp3]	주말	week-end<p class="small">(주: semaine, 말: fin)</p>
+[sound:주중.mp3]	주중	en semaine<p class="small">(주: semaine, 중: en cours)</p>
+
+[sound:일월.mp3]	일월	janvier<p class="small">(litt. “1<sup>er</sup> mois” de l'année)</p>
+[sound:이월.mp3]	이월	février<p class="small">(litt. “2<sup>ème</sup> mois” de l'année)</p>
+[sound:삼월.mp3]	삼월	mars<p class="small">(litt. “3<sup>ème</sup> mois” de l'année)</p>
+[sound:사월.mp3]	사월	avril<p class="small">(litt. “4<sup>ème</sup> mois” de l'année)</p>
+[sound:오월.mp3]	오월	mai<p class="small">(litt. “5<sup>ème</sup> mois” de l'année)</p>
+[sound:유월.mp3]	<span class="em">유</span>월	juin<p class="small">(litt. “6<sup>ème</sup> mois” de l'année)</p>
+[sound:칠월.mp3]	칠월	juillet<p class="small">(litt. “7<sup>ème</sup> mois” de l'année)</p>
+[sound:팔월.mp3]	팔월	août<p class="small">(litt. “8<sup>ème</sup> mois” de l'année)</p>
+[sound:구월.mp3]	구월	septembre<p class="small">(litt. “9<sup>ème</sup> mois” de l'année)</p>
+[sound:시월.mp3]	<span class="em">시</span>월	octobre<p class="small">(litt. “10<sup>ème</sup> mois” de l'année)</p>
+[sound:십일월.mp3]	십일월	novembre<p class="small">(litt. “11<sup>ème</sup> mois” de l'année)</p>
+[sound:십이월.mp3]	십이월	décembre<p class="small">(litt. “12<sup>ème</sup> mois” de l'année)</p>
+
+[sound:하나_1.mp3]	하나 (한)<p class="small">(<span class="em">하나</span> &lt; 둘 &lt; 셋 &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열)</p>	un<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:둘_2.mp3]	둘 (두)<p class="small">(하나 &lt; <span class="em">둘</span> &lt; 셋 &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열)</p>	deux<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:셋_3.mp3]	셋 (세)<p class="small">(하나 &lt; 둘 &lt; <span class="em">셋</span> &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열)</p>	trois<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:넷_4.mp3]	넷 (네)<p class="small">(하나 &lt; 둘 &lt; 셋 &lt; <span class="em">넷</span> &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열)</p>	quatre<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:다섯_5.mp3]	다섯<p class="small">(하나 &lt; 둘 &lt; 셋 &lt; 넷 &lt; <span class="em">다섯</span> &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열)</p>	cinq<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:여섯_6.mp3]	여섯<p class="small">(하나 &lt; 둘 &lt; 셋 &lt; 넷 &lt; 다섯 &lt; <span class="em">여섯</span> &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열)</p>	six<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:일곱_7.mp3]	일곱<p class="small">(하나 &lt; 둘 &lt; 셋 &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; <span class="em">일곱</span> &lt; 여덟 &lt; 아홉 &lt; 열)</p>	sept<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:여덟_8.mp3]	여덟<p class="small">(하나 &lt; 둘 &lt; 셋 &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; <span class="em">여덟</span> &lt; 아홉 &lt; 열)</p>	huit<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:아홉_9.mp3]	아홉<p class="small">(하나 &lt; 둘 &lt; 셋 &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; <span class="em">아홉</span> &lt; 열)</p>	neuf<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:열_10.mp3]	열<p class="small">(<span class="em">열</span> &lt; 스물 &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; 여든 &lt; 아흔)</p>	dix<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:하나_둘_셋_넷_다섯_여섯_일곱_여덟_아홉_열.mp3]	하나 &lt; 둘 &lt; 셋 &lt; 넷 &lt; 다섯 &lt; 여섯 &lt; 일곱 &lt; 여덟 &lt; 아홉 &lt; 열	numéraux <span class="em">coréens</span><p class="small">(un, deux, &hellip;, dix)</p>
+[sound:스물_20.mp3]	스물 (스무)열<p class="small">(열 &lt; <span class="em">스물</span> &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; 여든 &lt; 아흔)</p>	vingt<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:서른_30.mp3]	서른<p class="small">(열 &lt; 스물 &lt; <span class="em">서른</span> &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; 여든 &lt; 아흔)</p>	trente<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:마흔_40.mp3]	마흔<p class="small">(열 &lt; 스물 &lt; 서른 &lt; <span class="em">마흔</span> &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; 여든 &lt; 아흔)</p>	quarante<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:쉰_50.mp3]	쉰<p class="small">(열 &lt; 스물 &lt; 서른 &lt; 마흔 &lt; <span class="em">쉰</span> &lt; 예순 &lt; 일흔 &lt; 여든 &lt; 아흔)</p>	cinquante<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:예순_60.mp3]	예순<p class="small">(열 &lt; 스물 &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; <span class="em">예순</span> &lt; 일흔 &lt; 여든 &lt; 아흔)</p>	soixante<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:일흔_70.mp3]	일흔<p class="small">(열 &lt; 스물 &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; <span class="em">일흔</span> &lt; 여든 &lt; 아흔)</p>	soixante-dix<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:여든_80.mp3]	여든<p class="small">(열 &lt; 스물 &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; <span class="em">여든</span> &lt; 아흔)</p>	quatre-vingt<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:아흔_90.mp3]	아흔<p class="small">(열 &lt; 스물 &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; 여든 &lt; <span class="em">아흔</span>)</p>	quatre-vingt-dix<p class="small">(수사: numéral <span class="em">coréen</span>)</p>
+[sound:열_스물_서른_마흔_쉰_예순_일흔_여든_아흔.mp3]	열 &lt; 스물 &lt; 서른 &lt; 마흔 &lt; 쉰 &lt; 예순 &lt; 일흔 &lt; 여든 &lt; 아흔	numéraux <span class="em">coréens</span> (dizaines)<p class="small">(dix, vingt, trente, &hellip;, quatre-vingt-dix)</p>
+
+[sound:오늘_무슨_요일이에요.mp3]	<ul><li>오늘 무슨 요일이에요?</li><li>화요일이에요.</li></ul>	<ul><li>Aujourd'hui, quel jour (de la semaine) sommes-nous ?</li><li>Nous sommes mardi.</li></ul>
+[sound:한국역사_수업이_언제_시작해요.mp3]	<ul>한국역사 수업이 언제 시작해요?</ul>	<ul>Quand commence le cours d'histoire coréenne ?</ul>
+[sound:영화가_언제_시작해요.mp3]	<ul>영화가 언제 시작해요?</ul>	<ul>Quand commence le film ?</ul>
+[sound:언제_시내에_가요.mp3]	<ul>언제 시내에 가요?</ul>	<ul>Quand vas-tu au centre-ville ?</ul>
+
+[sound:지금_몇_시예요.mp3]	<ul><li>지금 몇 시예요?</li><li>한 시 반이에요.</li></ul>	<ul><li>Quelle heure est-il ?</li><li>Il est une heure et demie.</li></ul>
+[sound:지금_한_시예요.mp3]	<ul>지금 한 시예요.</ul>	<ul>Il est une heure maintenant.</ul>
+[sound:오후_다섯_시예요.mp3]	<ul>오후 다섯 시예요.</ul>	<ul>Il est cinq heures de l'après-midi.</ul>
+[sound:두_시_이십_분이에요.mp3]	<ul>두 시 이십 분이에요.</ul>	<ul>Il est deux heures vingt.</ul>
+[sound:아침_여덟_시_사십_분이에요.mp3]	<ul>아침 여덟 시 사십 분이에요.</ul>	<ul>Il est 8h40 du matin.</ul>
+[sound:오전_열한_시_십오_분이에요.mp3]	<ul>오전 열한 시 십오 분이에요.</ul>	<ul>Il est 11h15 du matin.</ul>
+[sound:저녁_아홉_시_반이에요.mp3]	<ul>저녁 아홉 시 반이에요.</ul>	<ul>Il est 9h30 du soir.</ul>
+[sound:네_시_반이에요.mp3]	<ul>네 시 반이에요.</ul><p class="small">(네 시 삼십 분이에요)</p>	<ul>Il est quatre heures et demie.</ul>
+[sound:오후_여섯_시_십오분_전이에요.mp3]	<ul>오후 여섯 시 <span class="em">십오분 전</span>이에요.</ul><p class="small">(오후 다섯 시 사십오 분이에요)</p>	<ul>Il est six heures <span class="em">moins le quart</span> de l'après-midi.</ul>
+
+[sound:한국역사_수업이_세_시에_끝나요.mp3]	<ul>한국역사 수업이 세 시에 끝나요.</ul>	<ul>Le cours d'histoire coréenne finit à trois heures.</ul>
+[sound:오전에_경복궁을_구경해요.mp3]	<ul>오전에 경복궁을 구경해요.</ul>	<ul>Je visite Gyeongbokgung dans la matinée.</ul>
+[sound:저는_토요일에_친구를_만나요.mp3]	<ul>저는 토요일에 친구를 만나요.</ul>	<ul>Je rencontre un ami samedi.</ul>
+[sound:저는_스물한_살이에요.mp3]	<ul>저는 스물한 살이에요.</ul>	<ul>J'ai 21 ans.</ul>
+
+[sound:오늘_몇_월_며칠이에요.mp3]	<ul><li>오늘 몇 월 <span class="em">며칠</span>이에요?</li><li>유월 이십이 일이에요.</li></ul>	<ul><li>On est le combien aujourd'hui ?</li><li>On est le 22 juin.</li></ul>
+[sound:오늘은_십이월_구_일이에요.mp3]	<ul>오늘은 십이월 구 일이에요.</ul>	<ul>Aujourd'hui, c'est le 9 décembre.</ul>
+
+[sound:함께_같이.mp3]	함께<hr/>같이	ensemble
+[sound:글쎄요.mp3]	글쎄요	euh &hellip; je ne sais pas trop &hellip;
+[sound:몇.mp3]	몇	combien
+[sound:보통.mp3]	보통	en général, d'habitude
+[sound:생일_생신.mp3]	생일	anniversaire
+[sound:선물.mp3]	선물	cadeau
+[sound:생일선물.mp3]	생일선물	cadeau d'anniversaire
+[sound:이따가.mp3]	이따가	tout à l'heure, plus tard
+[sound:잔치_파티.mp3]	잔치<hr/>파티	fête<ul><li>les coréens utilisent le terme emprunté à l'anglais (“party”) pour désigner la fête dans la vie courante</li><li>mais ils utilisent le terme coréen pour désigner les fêtes d'anniversaire (생일)</li></ul>
+[sound:생일잔치.mp3]	생일잔치	fête d'anniversaire
+[sound:생일_축하해요.mp3]	생일 축하해요	bon anniversaire, joyeux anniversaire
+
+[sound:부터.mp3]	-부터	depuis, à partir de<p class="small">(particule d'<span class="em">origine temporelle</span>)</p>
+[sound:까지.mp3]	-까지	jusque, jusqu'à, à<p class="small">(particule de <span class="em">destination spatiale ou temporelle</span>)</p>
+[sound:부터_까지.mp3]	-부터 -까지	de &hellip; à &hellip;<p class="small">(bornes d'un événement <span class="em">temporel</span>)</p>
+
+[sound:저는_한_시부터_세_시까지_한국어를_배워요.mp3]	<ul>저는 한 시부터 세 시까지 한국어를 배워요.</ul>	<ul>J'apprends le coréen de 1h à 3h.</ul>
+[sound:저는_두_시부터_수업이_있어요.mp3]	<ul>저는 두 시부터 수업이 있어요.</ul>	<ul>J'ai un cours à partir de 2 heures.</ul>
+
+
+[sound:쌀.mp3]	쌀 <span class="small light">/ 밥</span>	riz (cru) <span class="small light">/ riz cuit, repas</span>
+[sound:밥_진지.mp3]	밥 <span class="small light">/ 쌀</span>	riz (cuit), repas <span class="small light">/ riz cru</span>
+[sound:먹다_드시다_잡수시다.mp3]	<span class="light">(밥을)</span> 먹다<hr/>드시다<p class="small">(honorifique)</p>	manger, prendre le repas, être à table
+
+[sound:도착.mp3]	도착<p class="small">(&ne;&nbsp;출발)</p>	arrivée<p class="small">(&ne;&nbsp;départ)</p>
+[sound:도착하다.mp3]	도착하다<p class="small">(&ne;&nbsp;출발하다)</p>	arriver<p class="small">(&ne;&nbsp;partir)</p>
+[sound:도착해요.mp3]	도착해요<div class="활용"><div class="부정사">도착하다</div><div class="현재">도착해요</div></div>	il arrive
+
+[sound:시작.mp3]	시작<p class="small">(&ne;&nbsp;끝)</p>	début, commencement<p class="small">(&ne;&nbsp;fin)</p>
+[sound:시작하다.mp3]	시작하다<p class="small">(&ne;&nbsp;끝나다)</p>	commencer<p class="small">(&ne;&nbsp;se finir, se terminer)</p>
+[sound:시작해요.mp3]	시작해요<div class="활용"><div class="부정사">시작하다</div><div class="현재">시작해요</div></div>	il commence
+
+[sound:끝.mp3]	끝<p class="small">(&ne;&nbsp;시작)</p>	fin, bout, extrémité<p class="small">(&ne;&nbsp;début)</p>
+[sound:끝나다.mp3]	끝나다<p class="small">(&ne;&nbsp;시작하다)</p>	se finir, se terminer<p class="small">(&ne;&nbsp;commencer)</p><ul><li>verbe <span class="em">intransitif</span> (il n'admet pas de complément d'objet) : (S) se termine</li></ul>
+[sound:끝나요.mp3]	끝<span class="불규칙">나</span>요<p class="small">(끝<span class="불규칙">나아</span>요)</p><div class="활용"><div class="부정사">끝나다</div><div class="현재">끝나요</div></div>	il se finit, il se termine
+
+[sound:일어나다.mp3]	일어나다	se réveiller<hr/>se lever
+[sound:일어나요.mp3]	일어<span class="불규칙">나</span>요<p class="small">(일어<span class="불규칙">나아</span>요)</p><div class="활용"><div class="부정사">일어나다</div><div class="현재">일어나요</div></div>	il se réveille<hr/>il se lève
+
+[sound:쉬다.mp3]	쉬다	se reposer
+[sound:쉬어요.mp3]	쉬어요<div class="활용"><div class="부정사">쉬다</div><div class="현재">쉬어요</div></div>	il se repose
+
+[sound:씻다.mp3]	씻다 <span class="small">[씯따]</span>	se laver
+[sound:씻어요.mp3]	씻어요<div class="활용"><div class="bloc"><div class="부정사">씻다</div><div class="불규칙">(규칙동사)</div></div><div class="bloc"><div class="현재">씻어요</div></div></div>	il se lave
+
+[sound:운동.mp3]	운동	sport, exercice (physique), entraînement
+[sound:운동하다.mp3]	운동(을 )하다	faire du sport, des exercices (physiques), s'entraîner
+[sound:운동해요.mp3]	운동해요<div class="활용"><div class="부정사">운동하다</div><div class="현재">운동해요</div></div>	il fait du sport, il s'entraîne
+
+[sound:일하다.mp3]	일(을 )하다	travailler
+[sound:일해요.mp3]	일해요<div class="활용"><div class="부정사">일하다</div><div class="현재">일해요</div></div>	il travaille
+
+[sound:축하.mp3]	축하	félicitation
+[sound:축하하다.mp3]	축하하다	féliciter, fêter, célébrer
+[sound:축하해요.mp3]	축하해요<div class="활용"><div class="부정사">축하하다</div><div class="현재">축하해요</div></div>	il félicite, il fête, il célèbre
+
+[sound:고마워요.mp3]	고마<span class="불규칙">워</span>요<p class="small">(고마<span class="불규칙">우어</span>요)</p><div class="활용"><div class="bloc"><div class="부정사">고맙다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재"><div class="하십시오체">고맙습니다</div><div class="해요체">고마워요</div></div></div></div>	merci<p class="small">(litt. “je suis reconnaissant” ; 해요체, registre informel poli)</p>
+
+
+[sound:찬호_씨는_월요일부터_금요일까지_일해요.mp3]	<ul>찬호 씨는 월요일부터 금요일까지 일해요.</ul>	<ul>Chan-ho travaille du lundi au vendredi.</ul>
+[sound:찬호_씨는_매일_아침_6시_반에_일어나요.mp3]	<ul>찬호 씨는 매일 아침 6시 반에 일어나요. 6시 반부터 7시까지 운동해요.</ul>	<ul>Chan-ho se lève à 6h30 tous les matins. Il fait du sport de 6h30 à 7h00.</ul>
+[sound:찬호_씨는_7시_십분에_씻어요.mp3]	<ul>찬호 씨는 7시 10분에 씻어요. 그리고 7시 반에 아침을 먹어요.</ul>	<ul>Chan-ho se lave à 7h10. Et il déjeune à 7h30.</ul>
+[sound:찬호_씨는_9시에_회사에_도착해요.mp3]	<ul>찬호 씨는 9시에 회사에 도착해요.</ul>	<ul>Chan-ho arrive à l'entreprise à neuf heures.</ul>
+[sound:12시까지_열심히_일해요.mp3]	<ul>12시까지 열심히 일해요. 그리고 12시에 점심을 먹어요.</ul>	<ul>Il travaille dur jusqu'à midi et il déjeune à 12 heures.</ul>
+[sound:찬호_씨는_보통_저녁_7시쯤에_집에_와요.mp3]	<ul>찬호 씨는 보통 저녁 7시쯤에 집에 와요. 그리고 저녁을 먹어요.</ul>	<ul>Chan-ho rentre habituellement vers 19 heures et il dîne.</ul>
+[sound:8시에_텔레비전을_봐요.mp3]	<ul>8시에 텔레비전을 봐요. 9시에 책을 읽어요. 인터넷도 해요.</ul>	<ul>Il regarde la télévision à huit heures. À neuf heures il lit un livre. Il surfe aussi sur internet.</ul>
+[sound:찬호_씨는_밤_11시에_자요.mp3]	<ul>찬호 씨는 밤 11시에 자요.</ul>	<ul>Chan-ho dort à 23 heures.</ul>
+[sound:주말에_찬호_씨는_카페에서_친구를_만나요.mp3]	<ul>주말에 찬호 씨는 카페에서 친구를 만나요.</ul>	<ul>Le week-end, Chan-ho rencontre des amis au café.</ul>
+[sound:일요일에는_집에서_쉬어요.mp3]	<ul>일요일에는 집에서 쉬어요.</ul>	<ul>Le dimanche, il se repose à la maison.</ul>
