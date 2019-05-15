@@ -1,0 +1,351 @@
+tags: darakwon 11-과
+
+[sound:앞.mp3]	앞<p class="small">(&ne;&nbsp;뒤)</p>	devant<p class="small">(&ne;&nbsp;derrière)</p>
+[sound:뒤.mp3]	뒤<p class="small">(&ne;&nbsp;앞)</p>	derrière<p class="small">(&ne;&nbsp;devant)</p>
+[sound:옆.mp3]	옆	à côté de
+[sound:가운데.mp3]	가운데	au milieu de, au centre de
+[sound:오른쪽.mp3]	오른쪽 <span class="small light">/ 우회전</span><p class="small">(&ne;&nbsp;왼쪽)</p>	du côté droit, à droite <span class="small light">/ rotation à droite</span><p class="small"><p class="small">(쪽: côté, 회전: rotation ; &ne;&nbsp;à gauche)</p>
+[sound:왼쪽.mp3]	왼쪽 <span class="small light">/ 좌회전</span><p class="small">(&ne;&nbsp;오른쪽)</p>	du côté gauche, à gauche <span class="small light">/ rotation à gauche</span><p class="small">(쪽: côté, 회전: rotation ; &ne;&nbsp;à droite)</p>
+[sound:위.mp3]	위<p class="small">(&ne;&nbsp;밑 / 아래)</p>	sur, au-dessus de<p class="small">(&ne;&nbsp;sous, en dessous de)</p>
+[sound:밑_아래.mp3]	밑<hr/>아래<p class="small">(&ne;&nbsp;위)</p>	sous, en dessous de<p class="small">(&ne;&nbsp;sur, au-dessus de)</p>
+[sound:안_속.mp3]	안<hr/>속<p class="small">(&ne;&nbsp;밖)</p>	dans, au-dedans, à l'intérieur de<p class="small">(&ne;&nbsp;dehors, au-dehors, à l'extérieur de)</p>
+[sound:밖.mp3]	밖<p class="small">(&ne;&nbsp;안 / 속)</p>	dehors, au-dehors, à l'extérieur de<p class="small">(&ne;&nbsp;dans, au-dedans, à l'intérieur de)</p>
+
+[sound:결혼식.mp3]	결혼식	cérémonie de mariage
+[sound:곧.mp3]	곧	bientôt
+[sound:다시_또.mp3]	다시<hr/>또	encore, à nouveau<ul>Avec les nuances suivantes :<li>다시 - utilisé dans le sens de “reprendre” une tâche (soit que celle-ci ait été arrêtée ou suspendue, soit que l'on ne soit pas content du résultat)</li><li>또 - utilisé pour qualifier une nouvelle occurrence d'un fait récurrent</li></ul>
+[sound:다음.mp3]	다음<p class="small">(&ne;&nbsp;지난)</p>	prochain, suivant<p class="small">(&ne;&nbsp;dernier, précédent)</p>
+[sound:다음_주.mp3]	다음 주<p class="small">(지난 주 &lt; 이번 주 &lt; <span class="em">다음 주</span>)</p>	la semaine prochaine
+[sound:주.mp3]	주	semaine
+[sound:약국.mp3]	약국	pharmacie<p class="small">(약: médicament)</p>
+[sound:잠실역.mp3]	잠실역	station “Jamsil”<ul class="small"><li>Station située sur les lignes <span style="color:#33A23D">&#10103;</span> et <span style="color:#F51361">&#10109;</span> du métro de Séoul, dans l'arrondissement de Songpa (<span class="em">송파구</span>) au sud-est de Séoul.</li></ul><hr/><img src="송파구.svg">
+[sound:송파구.mp3]	송파구<hr/><img src="송파구.svg">	arrondissement de Songpa<ul class="small"><li>un des 25 arrondissements (구) de Séoul (서울)</li><li>arrondissement le plus peuplé de la capitale</li><li>un des trois arrondissements du Grand Gangnam avec Gangnam (강남구) et Seocho (서초구)</li><li>appelé autrefois Wirye (위례) quand il était la première capitale de Baekje (백제)</li><li>arrondissement au cœur des Jeux Olympiques de Séoul de 1988, accueillant de ce fait de nombreuses installations sportives</li><li>On y trouve le parc d'attractions Lotte World (롯데월드).</li></ul>
+[sound:표.mp3]	표	billet, ticket<hr/>table<p class="small">(grille de lignes et de colonnes)</p>
+[sound:행인.mp3]	행인	passant<p class="small">(personne)</p>
+
+[sound:누나_언니.mp3]	누나	grande sœur (d'un garçon)
+[sound:남동생.mp3]	남동생	petit frère
+[sound:부모님.mp3]	부모<span class="light">(님)</span><p class="small light">/ 아버지 / 어머니</p>	parents<p class="small light">/ père / mère</p>
+
+[sound:동.mp3]	동	quartier<ul class="small"><li>chaque arrondissement (구) est divisé en quartiers (동) eux-mêmes sous-divisés en 통</li><li>il y a 2 types de quartiers : les <span class="em">법정동</span> (법정: tribunal, cour ; litt. “quartier, considéré du point de vue de la loi”) et les <span class="em">행정동</span> (행정: administration ; litt. “quartier, considéré du point de vue administratif”)</li><li>Les 법정동 ont une longue tradition ; lorsque la population de ces 법정동 augmente, l'administration en charge les divise en plusieurs 행정동 ; lorsque leur population diminue, plusieurs 법정동 sont intégrés dans un même 행정동.</li><li>les 25 arrondissements (구) de Séoul réunissent 423 quartiers administratifs (행정동) au total, représentant 13787 통</li></ul><hr/>numéro de bâtiment (dans une résidence, sur un campus)<p class="small">(수분류사: classificateur + ordinal <span class="em">sino-coréen</span>)</p>
+[sound:호.mp3]	호	numéro de chambre, d'appartement<p class="small">(수분류사: classificateur + ordinal <span class="em">sino-coréen</span>)</p>
+[sound:거실.mp3]	거실	salon<p class="small">(pièce)</p>
+[sound:베란다.mp3]	베란다	véranda, balcon
+[sound:벽.mp3]	벽	mur
+[sound:벽장.mp3]	벽장 <span class="small light">/ 옷장</span>	placard <span class="small light">/ garde-robe, penderie</span>
+[sound:부엌.mp3]	부엌	cuisine<p class="small">(pièce)</p>
+[sound:스탠드.mp3]	스탠드	lampe (de bureau)
+[sound:안방.mp3]	안방	chambre parentale<p class="small">(litt. “pièce du fond”)</p>
+[sound:창문.mp3]	창문	fenêtre
+[sound:침대.mp3]	침대	lit
+[sound:현관.mp3]	현관	entrée<p class="small">(pièce)</p>
+[sound:화장실.mp3]	화장실	toilettes, wc<p class="small">(pièce)</p>
+[sound:휴지통.mp3]	휴지통	corbeille à papier
+[sound:온돌_구들.mp3]	온돌 / 구들	système de chauffage traditionnel par le sol en Corée
+
+
+
+[sound:현재.mp3]	현재 (시제)<div class="활용"><div class="bloc"><div class="부정사">부정사</div></div><div class="bloc"><div class="현재">직설법 현재</div><div class="과거">직설법 과거</div><div class="미래">직설법 미래</div></div></div>	(indicatif) présent<p class="small">(활용: conjugaison ; 직설법: mode indicatif ; 시제: temps ; angl. “present tense”)</p>
+[sound:과거.mp3]	과거 (시제)<div class="활용"><div class="bloc"><div class="부정사">부정사</div></div><div class="bloc"><div class="현재">직설법 현재</div><div class="과거">직설법 과거</div><div class="미래">직설법 미래</div></div></div>	(indicatif) passé<p class="small">(활용: conjugaison ; 직설법: mode indicatif ; 시제: temps ; angl. “past tense”)</p>
+[sound:미래.mp3]	미래 (시제)<div class="활용"><div class="bloc"><div class="부정사">부정사</div></div><div class="bloc"><div class="현재">직설법 현재</div><div class="과거">직설법 과거</div><div class="미래">직설법 미래</div></div></div>	(indicatif) futur<p class="small">(활용: conjugaison ; 직설법: mode indicatif ; 시제: temps ; angl. “future tense”)</p>
+[sound:을_거예요.mp3]	-(으)ㄹ 거예요	terminaisons du futur (미래)<p class="small">(활용: conjugaison ; 직설법: mode indicatif ; 시제: temps)</p>
+
+[sound:일_거예요.mp3]	<span class="불규칙">일</span> 거예요<p class="small">(<span class="불규칙">이을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">이다</div></div><div class="bloc"><div class="현재">이에요 / 예요</div><div class="과거">이었어요 / 였어요</div><div class="미래">일 거예요</div></div><div class="bloc"><div class="연결">이고</div><div class="연결">이지만</div><div class="연결">인데</div><div class="연결">이면</div></div></div>	il sera<p class="small">(<span class="em">copule</span>&nbsp;: sert à marquer l'identité)</p>
+
+[sound:아닐_거예요.mp3]	아<span class="불규칙">닐</span> 거예요<p class="small">(아<span class="불규칙">니을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">아니다</div></div><div class="bloc"><div class="현재">아니에요</div><div class="과거">아니었어요</div><div class="미래">아닐 거예요</div></div><div class="bloc"><div class="연결">아니고</div><div class="연결">아니지만</div><div class="연결">아닌데</div><div class="연결">아니면</div></div></div>	il ne sera pas<p class="small">(<span class="em">copule</span>&nbsp;: sert à marquer l'identité)</p>
+
+[sound:있을_거예요.mp3]	있을 거예요<div class="활용"><div class="bloc"><div class="부정사">있다</div></div><div class="bloc"><div class="현재">있어요</div><div class="과거">있었어요</div><div class="미래">있을 거예요</div></div><div class="bloc"><div class="연결">있고</div><div class="연결">있지만</div><div class="연결">있는데</div><div class="연결">있으면</div></div></div>	il sera / il aura<p class="small">(verbe d'existence / de possession)</p>
+
+[sound:없을_거예요.mp3]	없을 거예요<div class="활용"><div class="bloc"><div class="부정사">없다</div></div><div class="bloc"><div class="현재">없어요</div><div class="과거">없었어요</div><div class="미래">없을 거예요</div></div><div class="bloc"><div class="연결">없고</div><div class="연결">없지만</div><div class="연결">없는데</div><div class="연결">없으면</div></div></div>	il ne sera pas / il n'aura pas<p class="small">(verbe d'existence / de possession)</p>
+
+[sound:할_거예요.mp3]	할 거예요<div class="활용"><div class="bloc"><div class="부정사">하다</div></div><div class="bloc"><div class="현재">해요</div><div class="과거">했어요</div><div class="미래">할 거예요</div></div><div class="bloc"><div class="연결">하고</div><div class="연결">하지만</div><div class="연결">하는데</div><div class="연결">하면</div></div></div>	il fera
+
+
+[sound:가깝다.mp3]	가깝다<p class="small">(&ne;&nbsp;멀다)</p>	être proche<p class="small">(distance, temps, quantité)</p><hr/>être intime, familier
+[sound:가까워요.mp3]	가까<span class="불규칙">워</span>요<p class="small">(가까<span class="불규칙">우어</span>요)</p><div class="활용"><div class="bloc"><div class="부정사">가깝다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">가까워요</div><div class="과거">가까웠어요</div><div class="미래">가까울 거예요</div></div><div class="bloc"><div class="연결">가깝고</div><div class="연결">가깝지만</div><div class="연결">가까운데</div><div class="연결">가까우면</div></div></div>	il est proche<p class="small">(distance, temps, quantité)</p><hr/>il est intime, familier
+[sound:가까웠어요.mp3]	가까<span class="불규칙">웠</span>어요<p class="small">(가까<span class="불규칙">우었</span>어요)</p><div class="활용"><div class="bloc"><div class="부정사">가깝다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">가까워요</div><div class="과거">가까웠어요</div><div class="미래">가까울 거예요</div></div><div class="bloc"><div class="연결">가깝고</div><div class="연결">가깝지만</div><div class="연결">가까운데</div><div class="연결">가까우면</div></div></div>	il était proche<p class="small">(distance, temps, quantité)</p><hr/>il était intime, familier
+[sound:가까울_거예요.mp3]	가까<span class="불규칙">울</span> 거예요<p class="small">(가까<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">가깝다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">가까워요</div><div class="과거">가까웠어요</div><div class="미래">가까울 거예요</div></div><div class="bloc"><div class="연결">가깝고</div><div class="연결">가깝지만</div><div class="연결">가까운데</div><div class="연결">가까우면</div></div></div>	il sera proche<p class="small">(distance, temps, quantité)</p><hr/>il sera intime, familier
+
+[sound:갈_거예요.mp3]	갈 거예요<div class="활용"><div class="bloc"><div class="부정사">가다</div></div><div class="bloc"><div class="현재">가요</div><div class="과거">갔어요</div><div class="미래">갈 거예요</div></div><div class="bloc"><div class="연결">가고</div><div class="연결">가지만</div><div class="연결">가는데</div><div class="연결">가면</div></div></div>	il ira
+
+[sound:걸을_거예요.mp3]	<span class="불규칙">걸</span>을 거예요<div class="활용"><div class="bloc"><div class="부정사">걷다</div><div class="불규칙">(“ㄷ” 불규칙)</div></div><div class="bloc"><div class="현재">걸어요</div><div class="과거">걸었어요</div><div class="미래">걸을 거예요</div></div><div class="bloc"><div class="연결">걷고</div><div class="연결">걷지만</div><div class="연결">걷는데</div><div class="연결">걸으면</div></div></div>	il marchera
+
+[sound:걸릴_거예요.mp3]	걸릴 거예요<div class="활용"><div class="bloc"><div class="부정사">걸리다</div></div><div class="bloc"><div class="현재">걸려요</div><div class="과거">걸렸어요</div><div class="미래">걸릴 거예요</div></div><div class="bloc"><div class="연결">걸리고</div><div class="연결">걸리지만</div><div class="연결">걸린데</div><div class="연결">걸리면</div></div></div>	il prendra<p class="small">(le temps nécessaire)</p>
+
+[sound:고를_거예요.mp3]	고를 거예요<div class="활용"><div class="bloc"><div class="부정사">고르다</div><div class="불규칙">(“르” 불규칙)</div></div><div class="bloc"><div class="현재">골라요</div><div class="과거">골랐어요</div><div class="미래">고를 거예요</div><div class="명령법">고르세요</div></div><div class="bloc"><div class="연결">고르고</div><div class="연결">고르지만</div><div class="연결">고르는데</div><div class="연결">고르면</div></div></div>	il choisira, il sélectionnera
+
+[sound:고마울_거예요.mp3]	고마<span class="불규칙">울</span> 거예요<p class="small">(고마<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">고맙다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재"><div class="하십시오체">고맙습니다</div><div class="해요체">고마워요</div></div><div class="과거">고마웠어요</div><div class="미래">고마울 거예요</div></div><div class="bloc"><div class="연결">고맙고</div><div class="연결">고맙지만</div><div class="연결">고마운데</div><div class="연결">고마우면</div></div></div>	il sera reconnaissant
+
+[sound:공부할_거예요.mp3]	공부할 거예요<div class="활용"><div class="bloc"><div class="부정사">공부하다</div></div><div class="bloc"><div class="현재">공부해요</div><div class="과거">공부했어요</div><div class="미래">공부할 거예요</div></div><div class="bloc"><div class="연결">공부하고</div><div class="연결">공부하지만</div><div class="연결">공부하는데</div><div class="연결">공부하면</div></div></div>	il étudiera
+
+[sound:괜찮을_거예요.mp3]	괜찮을 거예요<div class="활용"><div class="bloc"><div class="부정사">괜찮다</div></div><div class="bloc"><div class="현재"><div class="하십시오체">괜찮습니다</div><div class="해요체">괜찮아요</div></div><div class="과거">괜찮았어요</div><div class="미래">괜찮을 거예요</div></div><div class="bloc"><div class="연결">괜찮고</div><div class="연결">괜찮지만</div><div class="연결">괜찮은데</div><div class="연결">괜찮으면</div></div></div>	il ira bien, ce ne sera pas grave, ça ira
+
+[sound:구경할_거예요.mp3]	구경할 거예요<div class="활용"><div class="bloc"><div class="부정사">구경하다</div></div><div class="bloc"><div class="현재">구경해요</div><div class="과거">구경했어요</div><div class="미래">구경할 거예요</div></div><div class="bloc"><div class="연결">구경하고</div><div class="연결">구경하지만</div><div class="연결">구경하는데</div><div class="연결">구경하면</div></div></div>	il visitera<hr/>il regardera
+
+[sound:기다릴_거예요.mp3]	기다릴 거예요<div class="활용"><div class="bloc"><div class="부정사">기다리다</div></div><div class="bloc"><div class="현재">기다려요</div><div class="과거">기다렸어요</div><div class="미래">기다릴 거예요</div><div class="명령법">기다리세요</div></div><div class="bloc"><div class="연결">기다리고</div><div class="연결">기다리지만</div><div class="연결">기다리는데</div><div class="연결">기다리면</div></div></div>	il attendra
+
+[sound:끝날_거예요.mp3]	끝날 거예요<div class="활용"><div class="bloc"><div class="부정사">끝나다</div></div><div class="bloc"><div class="현재">끝나요</div><div class="과거">끝났어요</div><div class="미래">끝날 거예요</div></div><div class="bloc"><div class="연결">끝나고</div><div class="연결">끝나지만</div><div class="연결">끝나는데</div><div class="연결">끝나면</div></div></div>	il se finira, il se terminera
+
+[sound:나타날_거예요.mp3]	나타날 거예요<div class="활용"><div class="bloc"><div class="부정사">나타나다</div></div><div class="bloc"><div class="현재">나타나요</div><div class="과거">나타났어요</div><div class="미래">나타날 거예요</div></div><div class="bloc"><div class="연결">나타나고</div><div class="연결">나타나지만</div><div class="연결">나타나는데</div><div class="연결">나타나면</div></div></div>	il apparaîtra
+
+[sound:내릴_거예요.mp3]	내릴 거예요<div class="활용"><div class="bloc"><div class="부정사">내리다</div></div><div class="bloc"><div class="현재">내려요</div><div class="과거">내렸어요</div><div class="미래">내릴 거예요</div></div><div class="bloc"><div class="연결">내리고</div><div class="연결">내리지만</div><div class="연결">내리는데</div><div class="연결">내리면</div></div></div>	il descendra
+
+[sound:넓을_거예요.mp3]	넓을 거예요<div class="활용"><div class="bloc"><div class="부정사">넓다</div></div><div class="bloc"><div class="현재">넓어요</div><div class="과거">넓었어요</div><div class="미래">넓을 거예요</div></div><div class="bloc"><div class="연결">넓고</div><div class="연결">넓지만</div><div class="연결">넓은데</div><div class="연결">넓으면</div></div></div>	il sera large (grand, spacieux)
+
+[sound:닫을_거예요.mp3]	닫을 거예요<div class="활용"><div class="bloc"><div class="부정사">닫다</div><div class="불규칙">(규칙동사)</div></div><div class="bloc"><div class="현재">닫아요</div><div class="과거">닫았어요</div><div class="미래">닫을 거예요</div></div><div class="bloc"><div class="연결">닫고</div><div class="연결">닫지만</div><div class="연결">닫는데</div><div class="연결">닫으면</div></div></div>	il fermera
+
+[sound:도착할_거예요.mp3]	도착할 거예요<div class="활용"><div class="bloc"><div class="부정사">도착하다</div></div><div class="bloc"><div class="현재">도착해요</div><div class="과거">도착했어요</div><div class="미래">도착할 거예요</div></div><div class="bloc"><div class="연결">도착하고</div><div class="연결">도착하지만</div><div class="연결">도착하는데</div><div class="연결">도착하면</div></div></div>	il arrivera
+
+[sound:도울_거예요.mp3]	도<span class="불규칙">울</span> 거예요<p class="small">(도<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">돕다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">도와요</div><div class="과거">도왔어요</div><div class="미래">도울 거예요</div></div><div class="bloc"><div class="연결">돕고</div><div class="연결">돕지만</div><div class="연결">돕는데</div><div class="연결">도우면</div></div></div>	il aidera
+
+[sound:들을_거예요.mp3]	<span class="불규칙">들</span>을 거예요<div class="활용"><div class="bloc"><div class="부정사">듣다</div><div class="불규칙">(“ㄷ” 불규칙)</div></div><div class="bloc"><div class="현재">들어요</div><div class="과거">들었어요</div><div class="미래">들을 거예요</div><div class="명령법">들으세요</div></div><div class="bloc"><div class="연결">듣고</div><div class="연결">듣지만</div><div class="연결">듣는데</div><div class="연결">들으면</div></div></div>	il entendra, il écoutera
+
+[sound:마실_거예요.mp3]	마실 거예요<div class="활용"><div class="bloc"><div class="부정사">마시다</div></div><div class="bloc"><div class="현재">마셔요</div><div class="과거">마셨어요</div><div class="미래">마실 거예요</div></div><div class="bloc"><div class="연결">마시고</div><div class="연결">마시지만</div><div class="연결">마시는데</div><div class="연결">마시면</div></div></div>	il boira
+
+[sound:막힐_거예요.mp3]	막힐 거예요<div class="활용"><div class="bloc"><div class="부정사">막히다</div></div><div class="bloc"><div class="현재">막혀요</div><div class="과거">막혔어요</div><div class="미래">막힐 거예요</div></div><div class="bloc"><div class="연결">막히고</div><div class="연결">막히지만</div><div class="연결">막히는데</div><div class="연결">막히면</div></div></div>	il sera bouché
+
+[sound:만날_거예요.mp3]	만날 거예요<div class="활용"><div class="bloc"><div class="부정사">만나다</div></div><div class="bloc"><div class="현재">만나요</div><div class="과거">만났어요</div><div class="미래">만날 거예요</div></div><div class="bloc"><div class="연결">만나고</div><div class="연결">만나지만</div><div class="연결">만나는데</div><div class="연결">만나면</div></div></div>	il rencontrera
+
+[sound:많을_거예요.mp3]	많을 거예요<div class="활용"><div class="bloc"><div class="부정사">많다</div></div><div class="bloc"><div class="현재">많아요</div><div class="과거">많았어요</div><div class="미래">많을 거예요</div></div><div class="bloc"><div class="연결">많고</div><div class="연결">많지만</div><div class="연결">많은데</div><div class="연결">많으면</div></div></div>	ils seront nombreux
+
+[sound:말할_거예요.mp3]	말할 거예요<div class="활용"><div class="bloc"><div class="부정사">말하다</div></div><div class="bloc"><div class="현재">말해요</div><div class="과거">말했어요</div><div class="미래">말할 거예요</div><div class="명령법">말하세요</div></div><div class="bloc"><div class="연결">말하고</div><div class="연결">말하지만</div><div class="연결">말하는데</div><div class="연결">말하면</div></div></div>	il parlera, il dira
+
+[sound:맛있을_거예요.mp3]	맛있을 거예요<div class="활용"><div class="bloc"><div class="부정사">맛있다</div></div><div class="bloc"><div class="현재">맛있어요</div><div class="과거">맛있었어요</div><div class="미래">맛있을 거예요</div></div><div class="bloc"><div class="연결">맛있고</div><div class="연결">맛있지만</div><div class="연결">맛있는데</div><div class="연결">맛있으면</div></div></div>	il sera délicieux
+
+[sound:맞을_거예요.mp3]	맞을 거예요<div class="활용"><div class="bloc"><div class="부정사">맞다</div></div><div class="bloc"><div class="현재">맞아요</div><div class="과거">맞았어요</div><div class="미래">맞을 거예요</div></div><div class="bloc"><div class="연결">맞고</div><div class="연결">맞지만</div><div class="연결">맞는데</div><div class="연결">맞으면</div></div></div>	ce sera correct, ce sera juste
+
+[sound:매울_거예요.mp3]	매<span class="불규칙">울</span> 거예요<p class="small">(매<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">맵다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">매워요</div><div class="과거">매웠어요</div><div class="미래">매울 거예요</div></div><div class="bloc"><div class="연결">맵고</div><div class="연결">맵지만</div><div class="연결">매운데</div><div class="연결">매우면</div></div></div>	il sera piquant, épicé
+
+[sound:먹을_거예요.mp3]	먹을 거예요<div class="활용"><div class="bloc"><div class="부정사">먹다</div></div><div class="bloc"><div class="현재">먹어요</div><div class="과거">먹었어요</div><div class="미래">먹을 거예요</div></div><div class="bloc"><div class="연결">먹고</div><div class="연결">먹지만</div><div class="연결">먹는데</div><div class="연결">먹으면</div></div></div>	il mangera
+
+[sound:멀다.mp3]	멀다<p class="small">(&ne;&nbsp;가깝다)</p>	être loin<p class="small">(&ne;&nbsp;être proche)</p>
+[sound:멀어요.mp3]	멀어요<div class="활용"><div class="bloc"><div class="부정사">멀다</div><div class="불규칙">(“ㄹ” 불규칙)</div></div><div class="bloc"><div class="현재">멀어요</div><div class="과거">멀었어요</div><div class="미래">멀 거예요</div></div><div class="bloc"><div class="연결">멀고</div><div class="연결">멀지만</div><div class="연결">먼데</div><div class="연결">멀면</div></div></div>	il est loin
+[sound:멀었어요.mp3]	멀었어요<div class="활용"><div class="bloc"><div class="부정사">멀다</div><div class="불규칙">(“ㄹ” 불규칙)</div></div><div class="bloc"><div class="현재">멀어요</div><div class="과거">멀었어요</div><div class="미래">멀 거예요</div></div><div class="bloc"><div class="연결">멀고</div><div class="연결">멀지만</div><div class="연결">먼데</div><div class="연결">멀면</div></div></div>	il était loin
+[sound:멀_거예요.mp3]	멀 거예요<div class="활용"><div class="bloc"><div class="부정사">멀다</div><div class="불규칙">(“ㄹ” 불규칙)</div></div><div class="bloc"><div class="현재">멀어요</div><div class="과거">멀었어요</div><div class="미래">멀 거예요</div></div><div class="bloc"><div class="연결">멀고</div><div class="연결">멀지만</div><div class="연결">먼데</div><div class="연결">멀면</div></div></div>	il sera loin
+
+[sound:물을_거예요.mp3]	<span class="불규칙">물</span>을 거예요<div class="활용"><div class="bloc"><div class="부정사">묻다</div><div class="불규칙">(“ㄷ” 불규칙)</div></div><div class="bloc"><div class="현재">물어요</div><div class="과거">물었어요</div><div class="미래">물을 거예요</div></div><div class="bloc"><div class="연결">묻고</div><div class="연결">묻지만</div><div class="연결">묻는데</div><div class="연결">물으면</div></div></div>	il demandera, il interrogera (quelqu'un)
+
+[sound:바쁘다.mp3]	바쁘다	être occupé
+[sound:바빠요.mp3]	바<span class="불규칙">빠</span>요<p class="small">(바<span class="불규칙">ㅃ+아</span>요)</p><div class="활용"><div class="bloc"><div class="부정사">바쁘다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">바빠요</div><div class="과거">바빴어요</div><div class="미래">바쁠 거예요</div></div><div class="bloc"><div class="연결">바쁘고</div><div class="연결">바쁘지만</div><div class="연결">바쁜데</div><div class="연결">바쁘면</div></div></div>	il est occupé
+[sound:바빴어요.mp3]	바<span class="불규칙">빴</span>어요<p class="small">(바<span class="불규칙">ㅃ+았</span>어요)</p><div class="활용"><div class="bloc"><div class="부정사">바쁘다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">바빠요</div><div class="과거">바빴어요</div><div class="미래">바쁠 거예요</div></div><div class="bloc"><div class="연결">바쁘고</div><div class="연결">바쁘지만</div><div class="연결">바쁜데</div><div class="연결">바쁘면</div></div></div>	il était occupé
+[sound:바쁠_거예요.mp3]	바쁠 거예요<div class="활용"><div class="bloc"><div class="부정사">바쁘다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">바빠요</div><div class="과거">바빴어요</div><div class="미래">바쁠 거예요</div></div><div class="bloc"><div class="연결">바쁘고</div><div class="연결">바쁘지만</div><div class="연결">바쁜데</div><div class="연결">바쁘면</div></div></div>	il sera occupé
+
+[sound:반가울_거예요.mp3]	반가<span class="불규칙">울</span> 거예요<p class="small">(반가<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">반갑다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재"><div class="하십시오체">반갑습니다</div><div class="해요체">반가워요</div></div><div class="과거">반가웠어요</div><div class="미래">반가울 거예요</div></div><div class="bloc"><div class="연결">반갑고</div><div class="연결">반갑지만</div><div class="연결">반가운데</div><div class="연결">반가우면</div></div></div>	il sera enchanté, ravi<p class="small">(de rencontrer)</p>
+
+[sound:받을_거예요.mp3]	받을 거예요<div class="활용"><div class="bloc"><div class="부정사">받다</div><div class="불규칙">(규칙동사)</div></div><div class="bloc"><div class="현재">받아요</div><div class="과거">받았어요</div><div class="미래">받을 거예요</div></div><div class="bloc"><div class="연결">받고</div><div class="연결">받지만</div><div class="연결">받는데</div><div class="연결">받으면</div></div></div>	il recevra
+
+[sound:배고프다_시장하시다.mp3]	배고프다	avoir faim
+[sound:배고파요.mp3]	배고<span class="불규칙">파</span>요<p class="small">(배고<span class="불규칙">ㅍ+아</span>요)</p><div class="활용"><div class="bloc"><div class="부정사">배고프다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">배고파요</div><div class="과거">배고팠어요</div><div class="미래">배고플 거예요</div></div><div class="bloc"><div class="연결">배고프고</div><div class="연결">배고프지만</div><div class="연결">배고픈데</div><div class="연결">배고프면</div></div></div>	il a faim
+[sound:배고팠어요.mp3]	배고<span class="불규칙">팠</span>어요<p class="small">(배고<span class="불규칙">ㅍ+았</span>어요)</p><div class="활용"><div class="bloc"><div class="부정사">배고프다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">배고파요</div><div class="과거">배고팠어요</div><div class="미래">배고플 거예요</div></div><div class="bloc"><div class="연결">배고프고</div><div class="연결">배고프지만</div><div class="연결">배고픈데</div><div class="연결">배고프면</div></div></div>	il avait faim
+[sound:배고플_거예요.mp3]	배고플 거예요<div class="활용"><div class="bloc"><div class="부정사">배고프다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">배고파요</div><div class="과거">배고팠어요</div><div class="미래">배고플 거예요</div></div><div class="bloc"><div class="연결">배고프고</div><div class="연결">배고프지만</div><div class="연결">배고픈데</div><div class="연결">배고프면</div></div></div>	il aura faim
+
+[sound:배울_거예요.mp3]	배<span class="불규칙">울</span> 거예요<p class="small">(배<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">배우다</div></div><div class="bloc"><div class="현재">배워요</div><div class="과거">배웠어요</div><div class="미래">배울 거예요</div></div><div class="bloc"><div class="연결">배우고</div><div class="연결">배우지만</div><div class="연결">배우는데</div><div class="연결">배우면</div></div></div>	il apprendra
+
+[sound:볼_거예요.mp3]	볼 거예요<div class="활용"><div class="bloc"><div class="부정사">보다</div></div><div class="bloc"><div class="현재">봐요</div><div class="과거">봤어요</div><div class="미래">볼 거예요</div><div class="명령법">보세요</div></div><div class="bloc"><div class="연결">보고</div><div class="연결">보지만</div><div class="연결">보는데</div><div class="연결">보면</div></div></div>	il verra, il regardera
+
+[sound:비쌀_거예요.mp3]	비쌀 거예요<div class="활용"><div class="bloc"><div class="부정사">비싸다</div></div><div class="bloc"><div class="현재">비싸요</div><div class="과거">비쌌어요</div><div class="미래">비쌀 거예요</div></div><div class="bloc"><div class="연결">비싸고</div><div class="연결">비싸지만</div><div class="연결">비싼데</div><div class="연결">비싸면</div></div></div>	il sera cher
+
+[sound:살_거예요-2.mp3]	살 거예요<div class="활용"><div class="bloc"><div class="부정사">사다</div></div><div class="bloc"><div class="현재">사요</div><div class="과거">샀어요</div><div class="미래">살 거예요</div></div><div class="bloc"><div class="연결">사고</div><div class="연결">사지만</div><div class="연결">사는데</div><div class="연결">사면</div></div></div>	il achètera
+
+[sound:산책할_거예요.mp3]	산책할 거예요<div class="활용"><div class="bloc"><div class="부정사">산책하다</div></div><div class="bloc"><div class="현재">산책해요</div><div class="과거">산책했어요</div><div class="미래">산책할 거예요</div></div><div class="bloc"><div class="연결">산책하고</div><div class="연결">산책하지만</div><div class="연결">산책하는데</div><div class="연결">산책하면</div></div></div>	il se promènera, il fera une promenade
+
+[sound:살_거예요.mp3]	살 거예요<div class="활용"><div class="bloc"><div class="부정사">살다</div><div class="불규칙">(“ㄹ” 불규칙)</div></div><div class="bloc"><div class="현재">살아요</div><div class="과거">살았어요</div><div class="미래">살 거예요</div></div><div class="bloc"><div class="연결">살고</div><div class="연결">살지만</div><div class="연결">사는데</div><div class="연결">살면</div></div></div>	il vivra, habitera, demeurera, résidera
+
+[sound:세일할_거예요.mp3]	세일할 거예요<div class="활용"><div class="bloc"><div class="부정사">세일하다</div></div><div class="bloc"><div class="현재">세일해요</div><div class="과거">세일했어요</div><div class="미래">세일할 거예요</div></div><div class="bloc"><div class="연결">세일하고</div><div class="연결">세일하지만</div><div class="연결">세일하는데</div><div class="연결">세일하면</div></div></div>	il fera les soldes
+
+[sound:쇼핑할_거예요.mp3]	쇼핑할 거예요<div class="활용"><div class="bloc"><div class="부정사">쇼핑하다</div></div><div class="bloc"><div class="현재">쇼핑해요</div><div class="과거">쇼핑했어요</div><div class="미래">쇼핑할 거예요</div></div><div class="bloc"><div class="연결">쇼핑하고</div><div class="연결">쇼핑하지만</div><div class="연결">쇼핑하는데</div><div class="연결">쇼핑하면</div></div></div>	il fera des achats, du shopping
+
+[sound:수영할_거예요.mp3]	수영할 거예요<div class="활용"><div class="bloc"><div class="부정사">수영하다</div></div><div class="bloc"><div class="현재">수영해요</div><div class="과거">수영했어요</div><div class="미래">수영할 거예요</div></div><div class="bloc"><div class="연결">수영하고</div><div class="연결">수영하지만</div><div class="연결">수영하는데</div><div class="연결">수영하면</div></div></div>	il fera de la natation, il nagera
+
+[sound:쉴_거예요.mp3]	쉴 거예요<div class="활용"><div class="bloc"><div class="부정사">쉬다</div></div><div class="bloc"><div class="현재">쉬어요</div><div class="과거">쉬었어요</div><div class="미래">쉴 거예요</div></div><div class="bloc"><div class="연결">쉬고</div><div class="연결">쉬지만</div><div class="연결">쉬는데</div><div class="연결">쉬면</div></div></div>	il se reposera
+
+[sound:쉬울_거예요.mp3]	쉬<span class="불규칙">울</span> 거예요<p class="small">(쉬<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">쉽다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">쉬워요</div><div class="과거">쉬웠어요</div><div class="미래">쉬울 거예요</div></div><div class="bloc"><div class="연결">쉽고</div><div class="연결">쉽지만</div><div class="연결">쉬운데</div><div class="연결">쉬우면</div></div></div>	il sera facile
+
+[sound:시작할_거예요.mp3]	시작할 거예요<div class="활용"><div class="bloc"><div class="부정사">시작하다</div></div><div class="bloc"><div class="현재">시작해요</div><div class="과거">시작했어요</div><div class="미래">시작할 거예요</div></div><div class="bloc"><div class="연결">시작하고</div><div class="연결">시작하지만</div><div class="연결">시작하는데</div><div class="연결">시작하면</div></div></div>	il commencera
+
+[sound:쌀_거예요.mp3]	쌀 거예요<div class="활용"><div class="bloc"><div class="부정사">싸다</div></div><div class="bloc"><div class="현재">싸요</div><div class="과거">쌌어요</div><div class="미래">쌀 거예요</div></div><div class="bloc"><div class="연결">싸고</div><div class="연결">싸지만</div><div class="연결">싼데</div><div class="연결">싸면</div></div></div>	il ne sera pas cher, il sera bon marché
+
+[sound:쓸_거예요.mp3]	쓸 거예요<div class="활용"><div class="bloc"><div class="부정사">쓰다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">써요</div><div class="과거">썼어요</div><div class="미래">쓸 거예요</div><div class="명령법">쓰세요</div></div><div class="bloc"><div class="연결">쓰고</div><div class="연결">쓰지만</div><div class="연결">쓰는데</div><div class="연결">쓰면</div></div></div>	il écrira
+
+[sound:씻을_거예요.mp3]	씻을 거예요<div class="활용"><div class="bloc"><div class="부정사">씻다</div><div class="불규칙">(규칙동사)</div></div><div class="bloc"><div class="현재">씻어요</div><div class="과거">씻었어요</div><div class="미래">씻을 거예요</div></div><div class="bloc"><div class="연결">씻고</div><div class="연결">씻지만</div><div class="연결">씻는데</div><div class="연결">씻으면</div></div></div>	il se lavera
+
+[sound:아르바이트할_거예요.mp3]	아르바이트할 거예요<div class="활용"><div class="bloc"><div class="부정사">아르바이트하다</div></div><div class="bloc"><div class="현재">아르바이트해요</div><div class="과거">아르바이트했어요</div><div class="미래">아르바이트할 거예요</div></div><div class="bloc"><div class="연결">아르바이트하고</div><div class="연결">아르바이트하지만</div><div class="연결">아르바이트하는데</div><div class="연결">아르바이트하면</div></div></div>	il fera un petit boulot
+
+[sound:아름다울_거예요.mp3]	아름다<span class="불규칙">울</span> 거예요<p class="small">(아름다<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">아름답다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">아름다워요</div><div class="과거">아름다웠어요</div><div class="미래">아름다울 거예요</div></div><div class="bloc"><div class="연결">아름답고</div><div class="연결">아름답지만</div><div class="연결">아름다운데</div><div class="연결">아름다우면</div></div></div>	il sera beau
+
+[sound:알_거예요.mp3]	알 거예요<div class="활용"><div class="bloc"><div class="부정사">알다</div><div class="불규칙">(“ㄹ” 불규칙)</div></div><div class="bloc"><div class="현재">알아요</div><div class="과거">알았어요</div><div class="미래">알 거예요</div></div><div class="bloc"><div class="연결">알고</div><div class="연결">알지만</div><div class="연결">아는데</div><div class="연결">알면</div></div></div>	il saura, il connaîtra
+
+[sound:어려울_거예요.mp3]	어려<span class="불규칙">울</span> 거예요<p class="small">(어려<span class="불규칙">우을</span> 거예요)</p><div class="활용"><div class="bloc"><div class="부정사">어렵다</div><div class="불규칙">(“ㅂ” 불규칙)</div></div><div class="bloc"><div class="현재">어려워요</div><div class="과거">어려웠어요</div><div class="미래">어려울 거예요</div></div><div class="bloc"><div class="연결">어렵고</div><div class="연결">어렵지만</div><div class="연결">어려운데</div><div class="연결">어려우면</div></div></div>	il sera difficile, dur
+
+[sound:예쁘다.mp3]	예쁘다	être joli
+[sound:예뻐요.mp3]	예<span class="불규칙">뻐</span>요<p class="small">(예<span class="불규칙">ㅃ+어</span>요)</p><div class="활용"><div class="bloc"><div class="부정사">예쁘다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">예뻐요</div><div class="과거">예뻤어요</div><div class="미래">예쁠 거예요</div></div><div class="bloc"><div class="연결">예쁘고</div><div class="연결">예쁘지만</div><div class="연결">예쁜데</div><div class="연결">예쁘면</div></div></div>	il est joli
+[sound:예뻤어요.mp3]	예<span class="불규칙">뻤</span>어요<p class="small">(예<span class="불규칙">ㅃ+었</span>어요)</p><div class="활용"><div class="bloc"><div class="부정사">예쁘다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">예뻐요</div><div class="과거">예뻤어요</div><div class="미래">예쁠 거예요</div></div><div class="bloc"><div class="연결">예쁘고</div><div class="연결">예쁘지만</div><div class="연결">예쁜데</div><div class="연결">예쁘면</div></div></div>	il était joli
+[sound:예쁠_거예요.mp3]	예쁠 거예요<div class="활용"><div class="bloc"><div class="부정사">예쁘다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">예뻐요</div><div class="과거">예뻤어요</div><div class="미래">예쁠 거예요</div></div><div class="bloc"><div class="연결">예쁘고</div><div class="연결">예쁘지만</div><div class="연결">예쁜데</div><div class="연결">예쁘면</div></div></div>	il sera joli
+
+[sound:올_거예요.mp3]	올 거예요<div class="활용"><div class="bloc"><div class="부정사">오다</div></div><div class="bloc"><div class="현재">와요</div><div class="과거">왔어요</div><div class="미래">올 거예요</div><div class="명령법">오세요</div></div><div class="bloc"><div class="연결">오고</div><div class="연결">오지만</div><div class="연결">오는데</div><div class="연결">오면</div></div></div>	il viendra
+
+[sound:운동할_거예요.mp3]	운동할 거예요<div class="활용"><div class="bloc"><div class="부정사">운동하다</div></div><div class="bloc"><div class="현재">운동해요</div><div class="과거">운동했어요</div><div class="미래">운동할 거예요</div></div><div class="bloc"><div class="연결">운동하고</div><div class="연결">운동하지만</div><div class="연결">운동하는데</div><div class="연결">운동하면</div></div></div>	il fera du sport, il s'entraînera
+
+[sound:운전할_거예요.mp3]	운전할 거예요<div class="활용"><div class="bloc"><div class="부정사">운전하다</div></div><div class="bloc"><div class="현재">운전해요</div><div class="과거">운전했어요</div><div class="미래">운전할 거예요</div></div><div class="bloc"><div class="연결">운전하고</div><div class="연결">운전하지만</div><div class="연결">운전하는데</div><div class="연결">운전하면</div></div></div>	il conduira<p class="small">(une voiture)</p>
+
+[sound:유명할_거예요.mp3]	유명할 거예요<div class="활용"><div class="bloc"><div class="부정사">유명하다</div></div><div class="bloc"><div class="현재">유명해요</div><div class="과거">유명했어요</div><div class="미래">유명할 거예요</div></div><div class="bloc"><div class="연결">유명하고</div><div class="연결">유명하지만</div><div class="연결">유명한데</div><div class="연결">유명하면</div></div></div>	il sera célèbre (illustre, renommé, fameux)
+
+[sound:이야기할_거예요.mp3]	이야기할 거예요<div class="활용"><div class="bloc"><div class="부정사">이야기하다</div></div><div class="bloc"><div class="현재">이야기해요</div><div class="과거">이야기했어요</div><div class="미래">이야기할 거예요</div></div><div class="bloc"><div class="연결">이야기하고</div><div class="연결">이야기하지만</div><div class="연결">이야기하는데</div><div class="연결">이야기하면</div></div></div>	il parlera, il discutera
+
+[sound:인터넷할_거예요.mp3]	인터넷할 거예요<div class="활용"><div class="bloc"><div class="부정사">인터넷하다</div></div><div class="bloc"><div class="현재">인터넷해요</div><div class="과거">인터넷했어요</div><div class="미래">인터넷할 거예요</div></div><div class="bloc"><div class="연결">인터넷하고</div><div class="연결">인터넷하지만</div><div class="연결">인터넷하는데</div><div class="연결">인터넷하면</div></div></div>	il surfera<p class="small">(sur internet)</p>
+
+[sound:일어날_거예요.mp3]	일어날 거예요<div class="활용"><div class="bloc"><div class="부정사">일어나다</div></div><div class="bloc"><div class="현재">일어나요</div><div class="과거">일어났어요</div><div class="미래">일어날 거예요</div></div><div class="bloc"><div class="연결">일어나고</div><div class="연결">일어나지만</div><div class="연결">일어나는데</div><div class="연결">일어나면</div></div></div>	il se réveillera<hr/>il se lèvera
+
+[sound:일할_거예요.mp3]	일할 거예요<div class="활용"><div class="bloc"><div class="부정사">일하다</div></div><div class="bloc"><div class="현재">일해요</div><div class="과거">일했어요</div><div class="미래">일할 거예요</div></div><div class="bloc"><div class="연결">일하고</div><div class="연결">일하지만</div><div class="연결">일하는데</div><div class="연결">일하면</div></div></div>	il travaillera
+
+[sound:읽을_거예요.mp3]	읽을 거예요<div class="활용"><div class="bloc"><div class="부정사">읽다</div></div><div class="bloc"><div class="현재">읽어요</div><div class="과거">읽었어요</div><div class="미래">읽을 거예요</div><div class="명령법">읽으세요</div></div><div class="bloc"><div class="연결">읽고</div><div class="연결">읽지만</div><div class="연결">읽는데</div><div class="연결">읽으면</div></div></div>	il lira
+
+[sound:잘_거예요.mp3]	잘 거예요<div class="활용"><div class="bloc"><div class="부정사">자다</div></div><div class="bloc"><div class="현재">자요</div><div class="과거">잤어요</div><div class="미래">잘 거예요</div></div><div class="bloc"><div class="연결">자고</div><div class="연결">자지만</div><div class="연결">자는데</div><div class="연결">자면</div></div></div>	il dormira
+
+[sound:재미있을_거예요.mp3]	재미있을 거예요<div class="활용"><div class="bloc"><div class="부정사">재미있다</div></div><div class="bloc"><div class="현재">재미있어요</div><div class="과거">재미있었어요</div><div class="미래">재미있을 거예요</div></div><div class="bloc"><div class="연결">재미있고</div><div class="연결">재미있지만</div><div class="연결">재미있는데</div><div class="연결">재미있으면</div></div></div>	il sera intéressant
+
+[sound:전화할_거예요.mp3]	전화할 거예요<div class="활용"><div class="bloc"><div class="부정사">전화하다</div></div><div class="bloc"><div class="현재">전화해요</div><div class="과거">전화했어요</div><div class="미래">전화할 거예요</div></div><div class="bloc"><div class="연결">전화하고</div><div class="연결">전화하지만</div><div class="연결">전화하는데</div><div class="연결">전화하면</div></div></div>	il téléphonera
+
+[sound:조깅할_거예요.mp3]	조깅할 거예요<div class="활용"><div class="bloc"><div class="부정사">조깅하다</div></div><div class="bloc"><div class="현재">조깅해요</div><div class="과거">조깅했어요</div><div class="미래">조깅할 거예요</div></div><div class="bloc"><div class="연결">조깅하고</div><div class="연결">조깅하지만</div><div class="연결">조깅하는데</div><div class="연결">조깅하면</div></div></div>	il fera du jogging
+
+[sound:좋을_거예요.mp3]	좋을 거예요<div class="활용"><div class="bloc"><div class="부정사">좋다</div></div><div class="bloc"><div class="현재">좋아요</div><div class="과거">좋았어요</div><div class="미래">좋을 거예요</div></div><div class="bloc"><div class="연결">좋고</div><div class="연결">좋지만</div><div class="연결">좋은데</div><div class="연결">좋으면</div></div></div>	il sera bien (bon)
+
+[sound:좋아할_거예요.mp3]	좋아할 거예요<div class="활용"><div class="bloc"><div class="부정사">좋아하다</div></div><div class="bloc"><div class="현재">좋아해요</div><div class="과거">좋아했어요</div><div class="미래">좋아할 거예요</div></div><div class="bloc"><div class="연결">좋아하고</div><div class="연결">좋아하지만</div><div class="연결">좋아하는데</div><div class="연결">좋아하면</div></div></div>	il aimera
+
+[sound:줄_거예요.mp3]	줄 거예요<div class="활용"><div class="bloc"><div class="부정사">주다</div></div><div class="bloc"><div class="현재">줘요</div><div class="과거">줬어요</div><div class="미래">줄 거예요</div><div class="명령법">주세요</div></div><div class="bloc"><div class="연결">주고</div><div class="연결">주지만</div><div class="연결">주는데</div><div class="연결">주면</div></div></div>	il donnera
+
+[sound:청소할_거예요.mp3]	청소할 거예요<div class="활용"><div class="bloc"><div class="부정사">청소하다</div></div><div class="bloc"><div class="현재">청소해요</div><div class="과거">청소했어요</div><div class="미래">청소할 거예요</div></div><div class="bloc"><div class="연결">청소하고</div><div class="연결">청소하지만</div><div class="연결">청소하는데</div><div class="연결">청소하면</div></div></div>	il nettoyera, il fera le ménage
+
+[sound:초대하다.mp3]	초대하다	inviter
+[sound:초대해요.mp3]	초대해요<div class="활용"><div class="bloc"><div class="부정사">초대하다</div></div><div class="bloc"><div class="현재">초대해요</div><div class="과거">초대했어요</div><div class="미래">초대할 거예요</div></div><div class="bloc"><div class="연결">초대하고</div><div class="연결">초대하지만</div><div class="연결">초대하는데</div><div class="연결">초대하면</div></div></div>	il invite
+[sound:초대했어요.mp3]	초대했어요<div class="활용"><div class="bloc"><div class="부정사">초대하다</div></div><div class="bloc"><div class="현재">초대해요</div><div class="과거">초대했어요</div><div class="미래">초대할 거예요</div></div><div class="bloc"><div class="연결">초대하고</div><div class="연결">초대하지만</div><div class="연결">초대하는데</div><div class="연결">초대하면</div></div></div>	il invitait
+[sound:초대할_거예요.mp3]	초대할 거예요<div class="활용"><div class="bloc"><div class="부정사">초대하다</div></div><div class="bloc"><div class="현재">초대해요</div><div class="과거">초대했어요</div><div class="미래">초대할 거예요</div></div><div class="bloc"><div class="연결">초대하고</div><div class="연결">초대하지만</div><div class="연결">초대하는데</div><div class="연결">초대하면</div></div></div>	il invitera
+
+[sound:축하할_거예요.mp3]	축하할 거예요<div class="활용"><div class="bloc"><div class="부정사">축하하다</div></div><div class="bloc"><div class="현재">축하해요</div><div class="과거">축하했어요</div><div class="미래">축하할 거예요</div></div><div class="bloc"><div class="연결">축하하고</div><div class="연결">축하하지만</div><div class="연결">축하하는데</div><div class="연결">축하하면</div></div></div>	il félicitera, fêtera, célèbrera
+
+[sound:친절할_거예요.mp3]	친절할 거예요<div class="활용"><div class="bloc"><div class="부정사">친절하다</div></div><div class="bloc"><div class="현재">친절해요</div><div class="과거">친절했어요</div><div class="미래">친절할 거예요</div></div><div class="bloc"><div class="연결">친절하고</div><div class="연결">친절하지만</div><div class="연결">친절한데</div><div class="연결">친절하면</div></div></div>	il sera gentil (amical, aimable)
+
+[sound:크다.mp3]	크다<p class="small">(&ne;&nbsp;작다)</p>	être grand<p class="small">(&ne;&nbsp;être petit)</p>
+[sound:커요.mp3]	<span class="불규칙">커</span>요<p class="small">(<span class="불규칙">ㅋ+어</span>요)</p><div class="활용"><div class="bloc"><div class="부정사">크다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">커요</div><div class="과거">컸어요</div><div class="미래">클 거예요</div></div><div class="bloc"><div class="연결">크고</div><div class="연결">크지만</div><div class="연결">큰데</div><div class="연결">크면</div></div></div>	il est grand
+[sound:컸어요.mp3]	<span class="불규칙">컸</span>어요<p class="small">(<span class="불규칙">ㅋ+었</span>어요)</p><div class="활용"><div class="bloc"><div class="부정사">크다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">커요</div><div class="과거">컸어요</div><div class="미래">클 거예요</div></div><div class="bloc"><div class="연결">크고</div><div class="연결">크지만</div><div class="연결">큰데</div><div class="연결">크면</div></div></div>	il était grand
+[sound:클_거예요.mp3]	클 거예요<div class="활용"><div class="bloc"><div class="부정사">크다</div><div class="불규칙">(“ㅡ” 불규칙)</div></div><div class="bloc"><div class="현재">커요</div><div class="과거">컸어요</div><div class="미래">클 거예요</div></div><div class="bloc"><div class="연결">크고</div><div class="연결">크지만</div><div class="연결">큰데</div><div class="연결">크면</div></div></div>	il sera grand
+
+[sound:탈_거예요.mp3]	탈 거예요<div class="활용"><div class="bloc"><div class="부정사">타다</div></div><div class="bloc"><div class="현재">타요</div><div class="과거">탔어요</div><div class="미래">탈 거예요</div></div><div class="bloc"><div class="연결">타고</div><div class="연결">타지만</div><div class="연결">타는데</div><div class="연결">타면</div></div></div>	il prendra<p class="small">(un moyen de transport)</p>
+
+[sound:테니스할_거예요.mp3]	테니스할 거예요<div class="활용"><div class="bloc"><div class="부정사">테니스하다</div></div><div class="bloc"><div class="현재">테니스해요</div><div class="과거">테니스했어요</div><div class="미래">테니스할 거예요</div></div><div class="bloc"><div class="연결">테니스하고</div><div class="연결">테니스하지만</div><div class="연결">테니스하는데</div><div class="연결">테니스하면</div></div></div>	il jouera au tennis
+
+[sound:편할_거예요.mp3]	편할 거예요<div class="활용"><div class="bloc"><div class="부정사">편하다</div></div><div class="bloc"><div class="현재">편해요</div><div class="과거">편했어요</div><div class="미래">편할 거예요</div></div><div class="bloc"><div class="연결">편하고</div><div class="연결">편하지만</div><div class="연결">편한데</div><div class="연결">편하면</div></div></div>	il sera pratique, confortable
+
+[sound:표시.mp3]	표시	marque, balise
+[sound:표시하다.mp3]	표시하다	marquer
+[sound:표시하세요.mp3]	표시하세요<div class="활용"><div class="bloc"><div class="부정사">표시하다</div><div class="명령법">표시하세요</div></div></div>	marquez<p class="small">(s'il vous plaît)</p>
+[sound:표시해요.mp3]	표시해요<div class="활용"><div class="bloc"><div class="부정사">표시하다</div></div><div class="bloc"><div class="현재">표시해요</div><div class="과거">표시했어요</div><div class="미래">표시할 거예요</div><div class="명령법">표시하세요</div></div><div class="bloc"><div class="연결">표시하고</div><div class="연결">표시하지만</div><div class="연결">표시하는데</div><div class="연결">표시하면</div></div></div>	il marque
+[sound:표시했어요.mp3]	표시했어요<div class="활용"><div class="bloc"><div class="부정사">표시하다</div></div><div class="bloc"><div class="현재">표시해요</div><div class="과거">표시했어요</div><div class="미래">표시할 거예요</div><div class="명령법">표시하세요</div></div><div class="bloc"><div class="연결">표시하고</div><div class="연결">표시하지만</div><div class="연결">표시하는데</div><div class="연결">표시하면</div></div></div>	il marquait
+
+[sound:피곤할_거예요.mp3]	피곤할 거예요<div class="활용"><div class="bloc"><div class="부정사">피곤하다</div></div><div class="bloc"><div class="현재">피곤해요</div><div class="과거">피곤했어요</div><div class="미래">피곤할 거예요</div></div><div class="bloc"><div class="연결">피곤하고</div><div class="연결">피곤하지만</div><div class="연결">피곤한데</div><div class="연결">피곤하면</div></div></div>	il sera fatigué
+
+
+
+[sound:이자벨은_피에르를_만날_거예요.mp3]	<ul>이자벨은 피에르를 만날 거예요.</ul>	<ul>Isabelle rencontrera Pierre.</ul>
+[sound:내일은_피곤할_거예요.mp3]	<ul>내일은 피곤할 거예요.</ul>	<ul>Demain je serai fatigué.</ul>
+[sound:아가트는_독일어를_배울_거예요.mp3]	<ul>아가트는 독일어를 배울 거예요.</ul>	<ul>Agathe apprendra l'allemand.</ul>
+[sound:저는_레오에게_전화할_거예요.mp3]	<ul>저는 레오에게 전화할 거예요.</ul>	<ul>Je téléphonerai à Léo.</ul>
+[sound:내일_뭐_할_거예요.mp3]	<ul>내일 뭐 할 거예요?</ul>	<ul>Que feras-tu demain ?</ul>
+[sound:제레미는_12시에_도착할_거예요.mp3]	<ul>제레미는 12시에 도착할 거예요.</ul>	<ul>Jérémie arrivera à 12h.</ul>
+
+
+[sound:누구.mp3]	<table id="underlined-header"><tr><th colspan=2/><th class="em">누구</th></tr><tr><td class="small">nominatif</td><td class="small">-이/-가</td><td>누가</td></tr><tr><td class="small">accusatif</td><td class="small">-을/-를</td><td>누구를 (누굴)</td></tr><tr><td class="small">datif</td><td class="small">-에게/-한테</td><td>누구에게</td></tr></table>	qui ?<p class="small">(pronom interrogatif)</p>
+
+[sound:누구_초대했어요.mp3]	<ul>누구 초대했어요?</ul>	<ul>Qui t'a invité ?</ul>
+[sound:누구_집에_왔어요.mp3]	<ul>누구 집에 왔어요?</ul>	<ul>Qui est venu à la maison ?</ul>
+[sound:누구하고_약속이_있어요.mp3]	<ul>누구하고 약속이 있어요?</ul>	<ul>Avec qui as-tu rendez-vous ?</ul>
+[sound:누구를_기다려요.mp3]	<ul>누구를 기다려요?</ul>	<ul>Qui attends-tu ?</ul>
+[sound:누구를_봐요.mp3]	<ul>누구를 봐요?</ul>	<ul>Qui regardes-tu ?</ul>
+[sound:누구에게_전화해요.mp3]	<ul>누구에게 전화해요?</ul>	<ul>À qui téléphones-tu ?</ul>
+
+[sound:그런데_왜요.mp3]	<ul><li>오늘 시간이 있어요?</li><li>네, 있어요. 그런데 왜요?</li></ul>	<ul><li>As-tu du temps aujourd'hui ?</li><li>Oui, j'en ai. Mais pourquoi ?</li></ul>
+[sound:왜_한국어를_공부해요.mp3]	<ul><li>왜 한국어를 공부해요?</li><li>한국어가 재미있어요.</li></ul>	<ul><li>Pourquoi étudies-tu le coréen ?</li><li>Le coréen est intéressant.</li></ul>
+
+[sound:저는_서울에_살고_피에르는_파리에_살아요.mp3]	<ul>저는 서울에 살<span class="em">고</span> 피에르는 파리에 살아요.</ul><p class="small">(저는 서울에 살아요. 그리고 피에르는 파리에 살아요)</p>	<ul>J'habite à Séoul <span class="em">et</span> Pierre à Paris.</ul><p class="small">(énumération des faits)</p>
+
+[sound:마리는_백화점에_가고_피에르는_도서관에_가요.mp3]	<ul>마리는 백화점에 가<span class="em">고</span> 피에르는 도서관에 가요.</ul><p class="small">(마리는 백화점에 가요. 그리고 피에르는 도서관에 가요)</p>	<ul>Marie va au grand magasin <span class="em">et</span> Pierre à la bibliothèque.</ul><p class="small">(actions concomitantes)</p>
+
+[sound:동수는_책을_읽고_텔레비전을_봐요.mp3]	<ul>동수는 책을 읽<span class="em">고</span> 텔레비전을 봐요.</ul><p class="small">(동수는 책을 읽어요. 그리고 동수는 텔레비전을 봐요)</p>	<ul>Dong-soo lit un livre <span class="em">et</span> regarde la télévision.</ul><p class="small">(actions séquentielles / chronologiques)</p>
+
+[sound:사미라는_영화를_보고_저녁을_먹었어요.mp3]	<ul>사미라는 영화를 보<span class="em">고</span> 저녁을 먹었어요.</ul><p class="small">(사미라는 영화를 봤어요. 그리고 사미라는 저녁을 먹었어요)</p>	<ul>Samira a regardé un film <span class="em">et</span> elle a dîné.</ul>
+
+[sound:저는_어제_운동을_하고_학교에_갔어요.mp3]	<ul>저는 어제 운동을 하<span class="em">고</span> 학교에 갔어요.</ul><p class="small">(저는 어제 운동을 했어요. 그리고 학교에 갔어요)</p>	<ul>Hier, j'ai fait du sport <span class="em">et</span> je suis allé à l'école.</ul>
+
+[sound:결혼식이_끝나고_다시_한국에_올_거예요.mp3]	<ul>결혼식이 끝나<span class="em">고</span> 다시 한국에 올 거예요.</ul><p class="small">(결혼식이 끝날 거예요. 그리고 다시 한국에 올 거예요)</p>	<ul><span class="em">Dès</span> le mariage terminé, je reviendrai en Corée.</ul>
+
+
+[sound:그렇지만_하지만.mp3]	그렇지만 / 하지만<hr/><div class="활용" style="font-size: 100%"><div class="연결"><div class="높임">-(으)시지만</div>AV-지만</div></div><p class="small">(연결 어미)</p>	mais<p class="small">(&#10102; adverbe conjonctif&nbsp;; &#10103; suffixe jonctif verbal)</p><ul><li>connecteur logique exprimant une relation d'<span class="em">opposition</span></li><li>soit l'opposition entre les 2 propositions est marquée</li><li>soit le locuteur nuance le contenu de la 1<sup>ère</sup> proposition dans la 2<sup>nde</sup></li><li>soit enfin le locuteur enchaîne 2 propositions sans rapport sémantique&nbsp;: la 1<sup>ère</sup>, une assertion brève servant d'accroche, étant directement suivie par la proposition qui contient l'information</li><li>il peut être précédé d'un morphème de temps (-았-, -었-, -겠-, &hellip;)</li></ul>
+
+[sound:하지만_레오는_안_왔어요.mp3]	<ul>사미라는 민정 씨의 아파트에 왔어요. 하지만 레오는 안 왔어요. 곧 올 거예요.</ul>	<ul>Samira est venue à l'appartement de Min-jong. Cependant, Léo n'est pas venu. Il viendra bientôt.</ul>
+
+
+
+# 대화 1
+
+[sound:사미라와_줄리엥은_학교_도서관에서_이야기해요.mp3]	<ul>사미라와 줄리엥은 학교 도서관에서 이야기해요.</ul>	<ul>Samira et Julien discutent à la bibliothèque de l'école.</ul>
+
+[sound:내일은_친구_집에_갈_거예요.mp3]	<ul><li>사미라 씨, 내일 뭐 할 거예요?</li><li>내일은 친구 집에 갈 거예요. 저를 집에 초대했어요.</li><li>누가 초대했어요?</li><li>민정 씨가 초대했어요.</li></ul>	<ul><li>Samira, demain qu'est-ce que tu vas faire ?</li><li>Demain j'irai chez une amie. J'y ai été invitée.</li><li>Qui t'a invitée ?</li><li>Min-jong m'a invitée.</li></ul>
+
+[sound:저는_내일_비행기_표를_살_거예요.mp3]	<ul><li>줄리엥 씨는 내일 뭐 할 거예요?</li><li>저는 내일 비행기 표를 살 거예요. 다음 주 토요일에 프랑스에 갈 거예요.</li><li>어머, 왜요?</li><li>누나 결혼식이 있어요. 결혼식이 끝나고 다시 한국에 올 거예요.</li></ul>	<ul><li>Julien, demain qu'est-ce que tu vas faire ?</li><li>Demain j'achèterai un billet d'avion. Samedi prochain j'irai en France.</li><li>Oh là là ! pourquoi ?</li><li>C'est le mariage de ma sœur. Dès le mariage terminé, je reviendrai en Corée.</li></ul>
+
+
+
+# 대화 2
+
+[sound:사미라는_지금_민정_씨_집에_가요.mp3]	<ul>사미라는 지금 민정 씨 집에 가요.</ul>	<ul>Samira se rend maintenant chez Min-jong.</ul>
+[sound:사미라는_잠실역에서_내렸어요.mp3]	<ul>사미라는 잠실역에서 내렸어요.</ul>	<ul>Samira est descendue à la station Jamsil.</ul>
+[sound:사미라는_행인에게_길을_물어요.mp3]	<ul>사미라는 행인에게 길을 물어요.</ul>	<ul>Samira demande sa route à un passant.</ul>
+
+[sound:여기에서_잠실아파트까지_멀어요.mp3]	<ul><li>실례합니다. 여기에서 잠실아파트까지 멀어요?</li><li>아니요, 가까워요. 걸어서 10분쯤 걸려요.</li></ul>	<ul><li>Excusez-moi. Est-ce qu'il y a loin d'ici à l'appartement Jamsil ?</li><li>Non, c'est proche. Il y en a pour une dizaine de minutes à pied.</li></ul>
+
+[sound:잠실아파트가_어디에_있어요.mp3]	<ul><li>잠실아파트가 어디에 있어요?</li><li>저기가 약국이에요. 잠실아파트는 약국 왼쪽에 있어요.</li><li>네, 고맙습니다.</li><li>천만에요.</li></ul>	<ul><li>Où est l'appartement Jamsil ?</li><li>Là-bas c'est une pharmacie. L'appartement Jamsil est à gauche de la pharmacie.</li><li>Merci.</li><li>De rien.</li></ul>
+
+
+
+# 읽기
+
+[sound:아파트가_아주_커요.mp3]	<ul>아파트가 아주 커요.</ul>	<ul>L'appartement est très grand.</ul>
+[sound:민정_씨는_255동_1502호에_살아요.mp3]	<ul>민정 씨는 255동 1502호에 살아요.</ul>	<ul>Min-jong habite bâtiment 255 / appartement 1502.</ul>
+[sound:민정_씨의_아파트에_방이_3개_있고_화장실이_2개_있어요.mp3]	<ul>민정 씨의 아파트에 방이 3개 있고 화장실이 2개 있어요.</ul>	<ul>Dans l'appartement de Min-jong il y a 3 pièces et 2 salles de bain.</ul>
+[sound:거실하고_부엌도_있어요.mp3]	<ul>거실하고 부엌도 있어요.</ul>	<ul>Il y a aussi un salon et une cuisine.</ul>
+[sound:안방은_부모님의_방이에요.mp3]	<ul>안방은 부모님의 방이에요.</ul>	<ul>La pièce du fond est la chambre des parents.</ul>
+[sound:민정_씨의_방은_안방_앞에_있어요.mp3]	<ul>민정 씨의 방은 안방 앞에 있어요.</ul>	<ul>La chambre de Min-jong est en face de la chambre parentale.</ul>
+[sound:민정_씨_남동생의_방은_현관_옆에_있어요.mp3]	<ul>민정 씨 남동생의 방은 현관 옆에 있어요.</ul>	<ul>La chambre du petit frère de Min-jong est à côté de l'entrée.</ul>
+[sound:부엌은_거실_앞에_있어요.mp3]	<ul>부엌은 거실 앞에 있어요.</ul>	<ul>La cuisine est en face du salon.</ul>
+[sound:민정_씨의_방은_참_예뻐요.mp3]	<ul>민정 씨의 방은 참 예뻐요.</ul>	<ul>La chambre de Min-jong est vraiment belle.</ul>
+
+[sound:방_안에는_책상이_있어요.mp3]	<ul>방 안에는 책상이 있어요.</ul>	<ul>À l'intérieur de la chambre il y a un bureau.</ul>
+[sound:책상_위에_컴퓨터하고_스탠드가_있어요.mp3]	<ul>책상 위에 컴퓨터하고 스탠드가 있어요.</ul>	<ul>Sur le bureau il y a un ordinateur et une lampe.</ul>
+[sound:책상_밑에_휴지통이_있어요.mp3]	<ul>책상 밑에 휴지통이 있어요.</ul>	<ul>Sous le bureau il y a une corbeille à papier.</ul>
+[sound:책상_오른쪽에_침대가_있어요.mp3]	<ul>책상 오른쪽에 침대가 있어요.</ul>	<ul>À droite du bureau il y a le lit.</ul>
+[sound:벽장은_창문_왼쪽에_있어요.mp3]	<ul>벽장은 창문 왼쪽에 있어요.</ul>	<ul>Il y a un placard à gauche de la fenêtre.</ul>
+[sound:벽에_영화_포스터가_있어요.mp3]	<ul>벽에 영화 포스터가 있어요.</ul>	<ul>Il y a une affiche de film au mur.</ul>
+
+
+
+# 듣기와 말하기
+
+[sound:줄리엥은_지난_금요일에_역사_시험을_봤어요.mp3]	<ul>줄리엥은 지난 금요일에 역사 시험을 봤어요.</ul>	<ul>Julien a passé un examen d'histoire vendredi dernier.</ul>
+[sound:토요일에_마리_씨를_만날_거예요.mp3]	<ul>토요일에 마리 씨를 만날 거예요.</ul>	<ul>Je rencontrerai Marie samedi.</ul>
+[sound:도서관이_우체국_옆에_있어요.mp3]	<ul>도서관이 우체국 옆에 있어요.</ul>	<ul>La bibliothèque est à côté de la poste.</ul>
+[sound:약국은_우체국_왼쪽에_있어요.mp3]	<ul>약국은 우체국 왼쪽에 있어요.</ul>	<ul>La pharmacie se trouve à gauche du bureau de poste.</ul>
+[sound:레오는_버스를_탈_거예요.mp3]	<ul>레오는 버스를 탈 거예요.</ul>	<ul>Léo prendra le bus.</ul>
+[sound:2월에는_바쁠_거예요.mp3]	<ul>2월에는 바쁠 거예요.</ul>	<ul>En février il sera occupé.</ul>
+[sound:책상_위에_연필이_있어요.mp3]	<ul>책상 위에 연필이 있어요.</ul>	<ul>Il y a un crayon sur le bureau.</ul>
+[sound:저는_영화를_좋아해요.mp3]	<ul>저는 영화를 좋아해요. 하지만 연극을 안 좋아해요.</ul>	<ul>J'aime les films mais je n'aime pas le théâtre.</ul>
+
+[sound:저는_아침_8시에_일어났어요.mp3]	<ul>저는 아침 8시에 일어났어요.</ul>	<ul>Je me suis réveillé à 8 heures.</ul>
+[sound:내일_도서관에_갈_거예요.mp3]	<ul>내일 도서관에 갈 거예요.</ul>	<ul>Demain, j'irai à la bibliothèque.</ul>
+[sound:오늘_바빠요.mp3]	<ul>오늘 바빠요?</ul>	<ul>Es-tu occupé aujourd'hui ?</ul>
+[sound:마리는_어제_누구를_만났어요.mp3]	<ul>마리는 어제 누구를 만났어요?</ul>	<ul>Qui Marie a-t-elle rencontré hier ?</ul>
+[sound:내일은_수업이_많아요.mp3]	<ul>내일은 수업이 많아요.</ul>	<ul>Demain, il y a beaucoup de cours.</ul>
+
+
+[sound:상준_씨_내일_뭐_할_거예요.mp3]	<ul><li>상준 씨, 내일 뭐 할 거예요?</li><li>내일 제레미 집에 갈 거예요.</li><li>왜요?</li><li>내일이 제레미 생일이에요.</li><li>생일 선물을 샀어요?</li><li>네, 한국어 사전을 줄 거예요.</li></ul>	<ul><li>Sang-joon, que vas-tu faire demain ?</li><li>Demain je vais chez Jérémie.</li><li>Pourquoi ?</li><li>Demain, c'est l'anniversaire de Jérémie.</li><li>As-tu acheté un cadeau d'anniversaire ?</li><li>Oui, je vais lui donner un dictionnaire de coréen.</li></ul>
+
+[sound:제레미가_어디에_살아요.mp3]	<ul><li>제레미가 어디에 살아요?</li><li>제레미는 서초동에 살아요.</li><li>서초동에 어떻게 갈 거예요?</li><li>지하철을 탈 거예요. 지하철로 30분 걸려요.</li></ul>	<ul><li>Où habite Jérémie ?</li><li>Jérémie habite à Seocho-dong.</li><li>Comment iras-tu à Seocho-dong ?</li><li>Je prendrai le métro. Cela prend 30 minutes en métro.</li></ul>
